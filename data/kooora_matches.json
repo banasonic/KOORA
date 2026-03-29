@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-29T21:27:29.399931+00:00",
+  "fetched_at_utc": "2026-03-29T21:54:54.942967+00:00",
   "groups_count": 48,
   "matches_count": 202,
   "matches": [
@@ -8,7 +8,7 @@
       "match_id": "ib6JdQMz5yfSrrTOI8IqI",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-29T22:30:00.000Z",
-      "last_updated_at": "2026-03-26T13:51:55.000Z",
+      "last_updated_at": "2026-03-29T21:38:27.000Z",
       "competition": {
         "id": "scf9p4y91yjvqvg5jndxzhxj",
         "name": "الدوري البرازيلي",
@@ -403,7 +403,7 @@
       "match_id": "20qycQXedFGVhE5mn2Pyq",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T20:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:11:37.000Z",
+      "last_updated_at": "2026-03-29T21:40:22.000Z",
       "competition": {
         "id": "c1d9p6b2e9zr5tqlzx3ktjplg",
         "name": "دوري الولايات المتحدة",
@@ -429,7 +429,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cBlHP9nSBTt4bbzOVKY5J.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "red_cards": {
@@ -446,7 +446,7 @@
       "match_id": "qR8irShqezc7ZSP46aJEk",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:10:00.000Z",
-      "last_updated_at": "2026-03-29T21:11:12.000Z",
+      "last_updated_at": "2026-03-29T21:29:06.000Z",
       "competition": {
         "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
@@ -661,7 +661,7 @@
       "match_id": "W4QQ6ySuivjdnKZEZhBp2",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:22:04.000Z",
+      "last_updated_at": "2026-03-29T21:48:34.000Z",
       "competition": {
         "id": "bdtat25m14jy85y484z3e6lf",
         "name": "كأس الأرجنتين",
@@ -688,7 +688,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -1347,9 +1347,9 @@
     },
     {
       "match_id": "s4b5gIiUml3P25NwNrQ_Z",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-29T19:30:00.000Z",
-      "last_updated_at": "2026-03-29T21:02:05.000Z",
+      "last_updated_at": "2026-03-29T21:32:18.000Z",
       "competition": {
         "id": "66nxwll8fur0rtp9q7wqaki1l",
         "name": "دوري الدرجة الثالثة الأرجنتيني",
@@ -1390,9 +1390,9 @@
     },
     {
       "match_id": "8VTsGOx42SP_IG7DNJseQ",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-29T19:30:00.000Z",
-      "last_updated_at": "2026-03-29T21:00:19.000Z",
+      "last_updated_at": "2026-03-29T21:32:58.000Z",
       "competition": {
         "id": "66nxwll8fur0rtp9q7wqaki1l",
         "name": "دوري الدرجة الثالثة الأرجنتيني",
@@ -1736,7 +1736,7 @@
       "match_id": "fPz8hft19-ibzFyegre7V",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T20:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:26:15.000Z",
+      "last_updated_at": "2026-03-29T21:39:34.000Z",
       "competition": {
         "id": "byu00jvt1j6csyv4y1lkt2fm2",
         "name": "دوري الدرجة الثانية الأرجنتيني",
@@ -1762,8 +1762,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AshJCs2KyKx9YOxtSbihP.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 1
+        "team_a": 2,
+        "team_b": 2
       },
       "red_cards": {
         "team_a": 0,
@@ -1822,7 +1822,7 @@
       "match_id": "R6G27eNvdXoWarQgdjIuX",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T20:30:00.000Z",
-      "last_updated_at": "2026-03-29T21:24:43.000Z",
+      "last_updated_at": "2026-03-29T21:42:43.000Z",
       "competition": {
         "id": "byu00jvt1j6csyv4y1lkt2fm2",
         "name": "دوري الدرجة الثانية الأرجنتيني",
@@ -1994,7 +1994,7 @@
       "match_id": "ynIBq9qAppTib4JgzsXcN",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T20:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:12:40.000Z",
+      "last_updated_at": "2026-03-29T21:50:15.000Z",
       "competition": {
         "id": "4aaa66sz94tnqiw08bqxsqwoc",
         "name": "دوري الشمال البرازيلي",
@@ -2020,7 +2020,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xZoECJekqKaIPLiMwRJea.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "red_cards": {
@@ -2037,7 +2037,7 @@
       "match_id": "dKz2pQoFX2fAfPB35Tlzc",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:06:45.000Z",
+      "last_updated_at": "2026-03-29T21:51:32.000Z",
       "competition": {
         "id": "4aaa66sz94tnqiw08bqxsqwoc",
         "name": "دوري الشمال البرازيلي",
@@ -2078,9 +2078,9 @@
     },
     {
       "match_id": "VerKt7mmCspr1tM7IHHoz",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-29T21:30:00.000Z",
-      "last_updated_at": "2026-03-14T15:24:03.000Z",
+      "last_updated_at": "2026-03-29T21:32:11.000Z",
       "competition": {
         "id": "4aaa66sz94tnqiw08bqxsqwoc",
         "name": "دوري الشمال البرازيلي",
@@ -2106,8 +2106,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oeak1k1Um29JNtTosvpBF.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -2381,7 +2381,7 @@
       "match_id": "-EgnO3gG1IG-WN5Dr7L3i",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:17:10.000Z",
+      "last_updated_at": "2026-03-29T21:52:19.000Z",
       "competition": {
         "id": "bly7ema5au6j40i0grhl0pnub",
         "name": "دوري تشيلي الدرجة الثانية",
@@ -2553,7 +2553,7 @@
       "match_id": "FTmB4w8dt3Kq2DnwnDVjb",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:15:30.000Z",
+      "last_updated_at": "2026-03-29T21:53:43.000Z",
       "competition": {
         "id": "ein4fkggto3pdh5msp8huafiq",
         "name": "الدوري السلفادوري",
@@ -2579,7 +2579,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qmeEKnwLjgYswngt74Cbi.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "red_cards": {
@@ -2596,7 +2596,7 @@
       "match_id": "qpKCwI9RyPYm2hHIIcA0B",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:02:11.000Z",
+      "last_updated_at": "2026-03-29T21:50:21.000Z",
       "competition": {
         "id": "ein4fkggto3pdh5msp8huafiq",
         "name": "الدوري السلفادوري",
@@ -2637,9 +2637,9 @@
     },
     {
       "match_id": "RnAuiTEaBh7NSkUZY6Boa",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-29T21:45:00.000Z",
-      "last_updated_at": "2026-03-26T09:55:33.000Z",
+      "last_updated_at": "2026-03-29T21:47:35.000Z",
       "competition": {
         "id": "ein4fkggto3pdh5msp8huafiq",
         "name": "الدوري السلفادوري",
@@ -2665,8 +2665,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OCSNFCYYelT3A3ALaqsa_.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -3548,7 +3548,7 @@
       "match_id": "bk7yC7bElvlevOKpq5Fl6",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:05:31.000Z",
+      "last_updated_at": "2026-03-29T21:52:19.000Z",
       "competition": {
         "id": "ae1wva3zrzcp2zd15gpvsntg6",
         "name": "دوري جواتيمالا",
@@ -8511,7 +8511,7 @@
       "match_id": "3f7AbtHhHYhfWMV6pbSoK",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-29T22:30:00.000Z",
-      "last_updated_at": "2026-03-12T15:59:25.000Z",
+      "last_updated_at": "2026-03-29T21:46:52.000Z",
       "competition": {
         "id": "2wolc27r8z03itcvwp43e38c5",
         "name": "دوري أوروجواي الممتاز",
@@ -8597,7 +8597,7 @@
       "match_id": "ZhVPerL-PcM2oAbCHSzy5",
       "status": "LIVE",
       "start_date_utc": "2026-03-29T21:00:00.000Z",
-      "last_updated_at": "2026-03-29T21:02:26.000Z",
+      "last_updated_at": "2026-03-29T21:27:39.000Z",
       "competition": {
         "id": "6jgwiu2gq3dllmrwt45pfdn2z",
         "name": "دوري أوروجواي الدرجة الثانية",
@@ -8623,7 +8623,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YOZWak4RPY0odHVOYZPaR.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "red_cards": {
