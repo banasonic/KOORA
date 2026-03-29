@@ -2,161 +2,161 @@
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T12:00:00.000Z",
-    "team_a": "ناميبيا",
-    "team_b": "جزر القمر",
+    "status": "LIVE",
+    "start_date": "2026-03-29T13:00:00.000Z",
+    "team_a": "ليتوانيا",
+    "team_b": "جورجيا",
     "score_a": 0,
     "score_b": 0
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T13:00:00.000Z",
-    "team_a": "زامبيا",
-    "team_b": "مالاوي",
-    "score_a": 0,
-    "score_b": 0
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T14:00:00.000Z",
-    "team_a": "سان مارينو",
-    "team_b": "جزر الفارو",
-    "score_a": 1,
-    "score_b": 2
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T14:00:00.000Z",
-    "team_a": "قيرغيزستان",
-    "team_b": "مدغشقر",
-    "score_a": 2,
-    "score_b": 5
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T14:00:00.000Z",
-    "team_a": "كوريا الجنوبية",
-    "team_b": "كوت ديفوار",
-    "score_a": 0,
-    "score_b": 4
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T16:00:00.000Z",
-    "team_a": "السنغال",
-    "team_b": "بيرو",
-    "score_a": 2,
-    "score_b": 0
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T16:00:00.000Z",
-    "team_a": "بوتسوانا",
-    "team_b": "زيمبابوي",
-    "score_a": 0,
-    "score_b": 3
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T17:00:00.000Z",
-    "team_a": "المجر",
-    "team_b": "سلوفينيا",
-    "score_a": 1,
-    "score_b": 0
-  },
-  {
-    "competition": "المباريات الودية",
-    "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T17:00:00.000Z",
-    "team_a": "إسكتلندا",
-    "team_b": "اليابان",
+    "status": "LIVE",
+    "start_date": "2026-03-29T13:00:00.000Z",
+    "team_a": "ماكاو",
+    "team_b": "تنزانيا",
     "score_a": 0,
     "score_b": 1
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T17:00:00.000Z",
-    "team_a": "كندا",
-    "team_b": "آيسلندا",
-    "score_a": 2,
-    "score_b": 2
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T14:00:00.000Z",
+    "team_a": "أرمينيا",
+    "team_b": "بيلاروسيا",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T18:00:00.000Z",
-    "team_a": "بوركينا فاسو",
-    "team_b": "غينيا بيساو",
-    "score_a": 5,
-    "score_b": 0
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T16:00:00.000Z",
+    "team_a": "آروبا",
+    "team_b": "ليشتنشتاين",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T19:30:00.000Z",
-    "team_a": "الولايات المتحدة الأمريكية",
-    "team_b": "بلجيكا",
-    "score_a": 2,
-    "score_b": 5
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T19:00:00.000Z",
+    "team_a": "مارتينيك",
+    "team_b": "السلفادور",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-28T20:00:00.000Z",
-    "team_a": "ساموا الأميركية",
-    "team_b": "غوام",
-    "score_a": 0,
-    "score_b": 6
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T19:00:00.000Z",
+    "team_a": "كولومبيا",
+    "team_b": "فرنسا",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-29T00:00:00.000Z",
-    "team_a": "جرز العذراء",
-    "team_b": "بورتو ريكو",
-    "score_a": 0,
-    "score_b": 2
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T20:00:00.000Z",
+    "team_a": "باربادوس",
+    "team_b": "سانت فنسنت والجرينادين",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-29T00:00:00.000Z",
-    "team_a": "هاييتي",
-    "team_b": "تونس",
-    "score_a": 0,
-    "score_b": 1
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T21:30:00.000Z",
+    "team_a": "جزر العذراء البريطانية",
+    "team_b": "أنجويلا",
+    "score_a": "N/A",
+    "score_b": "N/A"
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "RESULT",
-    "start_date": "2026-03-29T01:00:00.000Z",
-    "team_a": "المكسيك",
-    "team_b": "البرتغال",
-    "score_a": 0,
-    "score_b": 0
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T22:00:00.000Z",
+    "team_a": "جمهورية الدومينيكان",
+    "team_b": "كوبا",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "المباريات الودية",
+    "round": "مباريات دولية ودية",
+    "status": "FIXTURE",
+    "start_date": "2026-03-30T00:00:00.000Z",
+    "team_a": "جزر كايمان",
+    "team_b": "جزر الباهاما",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "المباريات الودية",
+    "round": "مباريات دولية ودية",
+    "status": "FIXTURE",
+    "start_date": "2026-03-30T00:30:00.000Z",
+    "team_a": "بونير",
+    "team_b": "سانت مارتن",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "المباريات الودية",
+    "round": "مباريات دولية ودية",
+    "status": "FIXTURE",
+    "start_date": "2026-03-30T03:00:00.000Z",
+    "team_a": "الرأس الأخضر",
+    "team_b": "فنلندا",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "الدوري المغربي الممتاز",
+    "round": "الدوري المغربي الممتاز",
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T15:00:00.000Z",
+    "team_a": "الكوكب الرياضي المراكشي",
+    "team_b": "الجيش الملكي",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "الدوري المغربي الممتاز",
+    "round": "الدوري المغربي الممتاز",
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T17:00:00.000Z",
+    "team_a": "إتحاد يعقوب المنصور",
+    "team_b": "أولمبيك آسفي",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "الدوري المغربي الممتاز",
+    "round": "الدوري المغربي الممتاز",
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T17:00:00.000Z",
+    "team_a": "الوداد الرياضي",
+    "team_b": "الدفاع الحسني الجديدي",
+    "score_a": "N/A",
+    "score_b": "N/A"
+  },
+  {
+    "competition": "الدوري المغربي الممتاز",
+    "round": "الدوري المغربي الممتاز",
+    "status": "FIXTURE",
+    "start_date": "2026-03-29T19:00:00.000Z",
+    "team_a": "نهضة بركان",
+    "team_b": "المغرب الفاسي",
+    "score_a": "N/A",
+    "score_b": "N/A"
   }
 ]
