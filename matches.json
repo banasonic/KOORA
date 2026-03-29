@@ -17,17 +17,17 @@
     "team_a": "ماكاو",
     "team_b": "تنزانيا",
     "score_a": 0,
-    "score_b": 1
+    "score_b": 3
   },
   {
     "competition": "المباريات الودية",
     "round": "مباريات دولية ودية",
-    "status": "FIXTURE",
+    "status": "LIVE",
     "start_date": "2026-03-29T14:00:00.000Z",
     "team_a": "أرمينيا",
     "team_b": "بيلاروسيا",
-    "score_a": "N/A",
-    "score_b": "N/A"
+    "score_a": 0,
+    "score_b": 0
   },
   {
     "competition": "المباريات الودية",
@@ -116,16 +116,6 @@
     "start_date": "2026-03-30T03:00:00.000Z",
     "team_a": "الرأس الأخضر",
     "team_b": "فنلندا",
-    "score_a": "N/A",
-    "score_b": "N/A"
-  },
-  {
-    "competition": "الدوري المغربي الممتاز",
-    "round": "الدوري المغربي الممتاز",
-    "status": "FIXTURE",
-    "start_date": "2026-03-29T15:00:00.000Z",
-    "team_a": "الكوكب الرياضي المراكشي",
-    "team_b": "الجيش الملكي",
     "score_a": "N/A",
     "score_b": "N/A"
   },
