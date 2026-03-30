@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T21:07:09.638322+00:00",
+  "fetched_at_utc": "2026-03-30T21:56:47.934688+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -549,9 +549,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ديفينسوريس-دي-بيلغرانو-ضد-أتل-رافاييلا/cJu0eVSJj0HdNumv4yf2N"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T21:30:00.000Z",
-      "last_updated_at": "2026-03-26T06:06:31.000Z",
+      "last_updated_at": "2026-03-30T21:33:01.000Z",
       "competition": {
         "name": "دوري الشمال البرازيلي",
         "country_or_area": "البرازيل",
@@ -570,8 +570,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1DxunCnPcRCYR3gPQOiF5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -581,7 +581,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-30T21:00:00.000Z",
-      "last_updated_at": "2026-03-30T21:00:06.000Z",
+      "last_updated_at": "2026-03-30T21:49:08.000Z",
       "competition": {
         "name": "دوري تشيلي الدرجة الثانية",
         "country_or_area": "تشيلي",
@@ -600,8 +600,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yGof3722I0i-UlPForsA_.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -609,9 +609,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ماجالانيس-ضد-رينجرز/D3eiW1RVVV1ivF7Y7mjkY"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T20:00:00.000Z",
-      "last_updated_at": "2026-03-30T21:04:58.000Z",
+      "last_updated_at": "2026-03-30T21:55:43.000Z",
       "competition": {
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
@@ -631,7 +631,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
