@@ -1,14 +1,14 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T07:19:07.545253+00:00",
+  "fetched_at_utc": "2026-03-30T08:53:37.172747+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
     {
       "match_id": "kl5bwMOpXAmYMxLNmewrd",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T06:15:00.000Z",
-      "last_updated_at": "2026-03-30T07:04:54.000Z",
+      "last_updated_at": "2026-03-30T08:09:04.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -16,11 +16,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "bhu61cgwm07e2pik1jqmnztgl",
         "name": "نيوزيلندا",
@@ -34,8 +30,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 0
+        "team_a": 4,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -43,21 +39,15 @@
       },
       "aggregate_score": null,
       "penalty_score": null,
-      "tv_channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "https://www.dazn.com/en-JO/home",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/UqqLpjcUyFlsNktavowJXMtl3PTztP5BfUsdTHc5.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/نيوزيلندا-ضد-تشيلي/kl5bwMOpXAmYMxLNmewrd"
     },
     {
       "match_id": "-kzT4vIkp9vfHskuP6EnA",
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_utc": "2026-03-30T08:30:00.000Z",
-      "last_updated_at": "2026-03-27T16:46:26.000Z",
+      "last_updated_at": "2026-03-30T08:38:08.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -65,11 +55,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "6jwullawcerruu29afyok2wgl",
         "name": "سانت كيتس ونيفيس",
@@ -83,8 +69,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HAcxmvTDvlK-om9fi5ihn.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -108,11 +94,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "9p9g9bfefde4urqgmcfqy1ygl",
         "name": "الجابون",
@@ -157,11 +139,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "3l2t2db0c5ow2f7s7bhr6mij4",
         "name": "ألمانيا",
@@ -202,11 +180,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "b9mwx4b6glg4kgbqgm3uysf3l",
         "name": "الإمارات العربية المتحدة",
@@ -245,11 +219,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "3oht9gs0l91fikms2798i8c35",
         "name": "إندونيسيا",
@@ -288,11 +258,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "88jwqq14es3obmtaxvj042tnv",
         "name": "جرانادا",
@@ -331,11 +297,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "elayenut7wtobtmg7hyujzdoe",
         "name": "أوزبكستان",
@@ -380,11 +342,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "9ms7hu667vap4ig8auym6gejm",
         "name": "أذربيجان",
@@ -423,11 +381,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "3vmiqi95f7lo3ajug9huswg6z",
         "name": "قبرص",
@@ -482,11 +436,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "a11jsz5fz6ovaaj37h9g2uzil",
         "name": "رواندا",
@@ -525,11 +475,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "96XgA2oYDLvReeMK0ISAI",
-        "name": "مباريات دولية ودية",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "3l2t2db0c5ow2f7s7bhr6mij4",
         "name": "ألمانيا",
@@ -586,11 +532,7 @@
         "country_or_area_code": "COL",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
       },
-      "round": {
-        "id": "Wc_IMaJwfPTqCek6LhpLN",
-        "name": "Primera A Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "SWelu9-p4LhgWJgJXVl-n",
         "name": "لايانيروس",
@@ -629,11 +571,7 @@
         "country_or_area_code": "COL",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
       },
-      "round": {
-        "id": "Wc_IMaJwfPTqCek6LhpLN",
-        "name": "Primera A Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "bzpygd5fja0tbb2x8daphil1l",
         "name": "إنديبينديينتي ميديلين",
@@ -672,11 +610,7 @@
         "country_or_area_code": "COL",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
       },
-      "round": {
-        "id": "Wc_IMaJwfPTqCek6LhpLN",
-        "name": "Primera A Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "eqbww924pupg9vspauc0h7bt6",
         "name": "ميلوناريوس",
@@ -715,11 +649,7 @@
         "country_or_area_code": "ARG",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/2vovxa97k7v7ofa85dah2xktb.png"
       },
-      "round": {
-        "id": "Z5iikmaGI2aZvkaxK8v28",
-        "name": "Cup",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "5o5wtxn03ktvxcdrpxht5aqdp",
         "name": "يونيون",
@@ -758,11 +688,7 @@
         "country_or_area_code": "ARG",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/2vovxa97k7v7ofa85dah2xktb.png"
       },
-      "round": {
-        "id": "Tg1kmMoBJmMVHPvYcU1vP",
-        "name": "Federal A Zona A",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "n2Qwn8h8jMyOI9FyI7z6B",
         "name": "Atletico Escobar",
@@ -801,11 +727,7 @@
         "country_or_area_code": "ARG",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/2vovxa97k7v7ofa85dah2xktb.png"
       },
-      "round": {
-        "id": "j1Cq9ElCJn-2Y_rL4xTKs",
-        "name": "Primera Nacional",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "NCTNInRnm6QKwn4v_uAWF",
         "name": "ديفينسوريس دي بيلغرانو",
@@ -844,11 +766,7 @@
         "country_or_area_code": "BRA",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/2vufyvpoxd9lfl9f6vpp7tz6y.png"
       },
-      "round": {
-        "id": "ucxE3lGRMa1Co72q1PUlM",
-        "name": "Copa do Nordeste Group Stage",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "3v5n7ey0608pp21v1fphxwnrr",
         "name": "جاكوبينس",
@@ -887,11 +805,7 @@
         "country_or_area_code": "CHI",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/32tb8d7824xg4i0ybxzssczu0.png"
       },
-      "round": {
-        "id": "i-hjMmcvU7CTuz57cXhJt",
-        "name": "Primera B",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "7h7fqxh99usu5e961lp7e9ys0",
         "name": "ماجالانيس",
@@ -930,11 +844,7 @@
         "country_or_area_code": "COL",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
       },
-      "round": {
-        "id": "UDt-atrOOJfOVespz7KTM",
-        "name": "Primera B Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "iry3mze71anmpn6r5fx8goev",
         "name": "أتلتيكو هويلا",
@@ -973,11 +883,7 @@
         "country_or_area_code": "COL",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
       },
-      "round": {
-        "id": "UDt-atrOOJfOVespz7KTM",
-        "name": "Primera B Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "Y-Pi3BI-cCdMUW8-JyLta",
         "name": "اورسومارسو",
@@ -1016,11 +922,7 @@
         "country_or_area_code": "ENG",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1fk5l4hkqk12i7zske6mcqju6.png"
       },
-      "round": {
-        "id": "_y-5rb79G1IMnmJ2v2yee",
-        "name": "National League South",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "8nd7rqpyxsujb6oflukaf8y27",
         "name": "تشيلمسفورد",
@@ -1061,11 +963,7 @@
         "country_or_area_code": "ENG",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1fk5l4hkqk12i7zske6mcqju6.png"
       },
-      "round": {
-        "id": "14k51O8Yl2EttjYKVOMlR",
-        "name": "Premier League 2",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "1XEQTBcILVa7CE3MHTDsi",
         "name": "Sunderland Academy",
@@ -1106,11 +1004,7 @@
         "country_or_area_code": "GER",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/36min0qztu8eydwvpv8t1is0m.png"
       },
-      "round": {
-        "id": "ruqssyGXtEMXQJrhgf6K8",
-        "name": "الدوري الألماني لكرة القدم للسيدات",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "3P3gR1Gn-wUk4F-7-i1Na",
         "name": "هامبورج",
@@ -1149,11 +1043,7 @@
         "country_or_area_code": "WORLD",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
       },
-      "round": {
-        "id": "1reZEwWk8bC_4LPfQfYM3",
-        "name": "EURO U21 Qualification Grp. C",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "0BD-SX2C6FpO0TuHMeHpn",
         "name": "فرنسا تحت 21",
@@ -1192,11 +1082,7 @@
         "country_or_area_code": "IRN",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/e53g9hr2d3kasm34uumbg8r4.png"
       },
-      "round": {
-        "id": "_D8gZxZUF0ZFr3cWOtV1C",
-        "name": "Azadegan League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "6KpWSjN8q93H46XSBpn29",
         "name": "ميس شاهر اي باباك",
@@ -1235,11 +1121,7 @@
         "country_or_area_code": "IRN",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/e53g9hr2d3kasm34uumbg8r4.png"
       },
-      "round": {
-        "id": "_D8gZxZUF0ZFr3cWOtV1C",
-        "name": "Azadegan League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "4rc5bz4h4vejwwudf1knmuabf",
         "name": "نساجي مازندران",
@@ -1278,11 +1160,7 @@
         "country_or_area_code": "IRN",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/e53g9hr2d3kasm34uumbg8r4.png"
       },
-      "round": {
-        "id": "_D8gZxZUF0ZFr3cWOtV1C",
-        "name": "Azadegan League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "uOHkQozJ06nnRQ_m3tgbG",
         "name": "بارس جنوبي جم",
@@ -1321,11 +1199,7 @@
         "country_or_area_code": "IRN",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/e53g9hr2d3kasm34uumbg8r4.png"
       },
-      "round": {
-        "id": "_D8gZxZUF0ZFr3cWOtV1C",
-        "name": "Azadegan League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "iQmNTjybQSNEBkF3uVHKZ",
         "name": "شينافار سازي قشم",
@@ -1364,11 +1238,7 @@
         "country_or_area_code": "IRQ",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1uzblzx1s42jn6zk6hivjzby8.png"
       },
-      "round": {
-        "id": "uAJiRyYdxnyYZXcJmtYbT",
-        "name": "Stars League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "2oiljz2156dxal4i76tq2xv8v",
         "name": "الطلبة",
@@ -1407,11 +1277,7 @@
         "country_or_area_code": "IRQ",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1uzblzx1s42jn6zk6hivjzby8.png"
       },
-      "round": {
-        "id": "uAJiRyYdxnyYZXcJmtYbT",
-        "name": "Stars League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "bsxiqy6ze23hmlwli5gf4swb",
         "name": "الكرخ",
@@ -1450,11 +1316,7 @@
         "country_or_area_code": "IRQ",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1uzblzx1s42jn6zk6hivjzby8.png"
       },
-      "round": {
-        "id": "uAJiRyYdxnyYZXcJmtYbT",
-        "name": "Stars League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "Pgj8lTePBG51FlI3ezqp1",
         "name": "الموصل",
@@ -1493,11 +1355,7 @@
         "country_or_area_code": "IRQ",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1uzblzx1s42jn6zk6hivjzby8.png"
       },
-      "round": {
-        "id": "uAJiRyYdxnyYZXcJmtYbT",
-        "name": "Stars League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "82sb17udbc74ca9jrswo8zgq8",
         "name": "دهوك",
@@ -1536,11 +1394,7 @@
         "country_or_area_code": "IRQ",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/1uzblzx1s42jn6zk6hivjzby8.png"
       },
-      "round": {
-        "id": "uAJiRyYdxnyYZXcJmtYbT",
-        "name": "Stars League",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "9pvaq4am2zy6qwp63mor2tsd3",
         "name": "بغداد إف سي",
@@ -1579,11 +1433,7 @@
         "country_or_area_code": "ITA",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/25f2cmb2r8mk5rj92tzer6kvv.png"
       },
-      "round": {
-        "id": "3Tn75hZWEMjHKPg84d-AI",
-        "name": "Serie C Grp. B",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "4t5jer3f32ve0pzq3c3e1n80w",
         "name": "أريتزو",
@@ -1622,11 +1472,7 @@
         "country_or_area_code": "ITA",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/25f2cmb2r8mk5rj92tzer6kvv.png"
       },
-      "round": {
-        "id": "P_KtRKUcwzCB0jjnKfUkF",
-        "name": "Serie C Grp. C",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "alj09hp6s9yl8olf0tw617eu2",
         "name": "ساسيرتانا",
@@ -1665,11 +1511,7 @@
         "country_or_area_code": "PAR",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/4snnlul02xmgkkb024q2bqyn9.png"
       },
-      "round": {
-        "id": "Le90D5Hwg_i0vLilEUNIJ",
-        "name": "Division Profesional - Apertura",
-        "display": true
-      },
+      "round": null,
       "team_a": {
         "id": "984ibdjplnlwb36kt6wbgwe97",
         "name": "ليبيرتاد",
@@ -1698,9 +1540,9 @@
     },
     {
       "match_id": "DubKWVKD8PlZm1VRTJ849",
-      "status": "POSTPONED",
-      "start_date_utc": "2026-03-29T16:00:00.000Z",
-      "last_updated_at": "2026-03-29T13:54:08.000Z",
+      "status": "FIXTURE",
+      "start_date_utc": "2026-03-30T18:00:00.000Z",
+      "last_updated_at": "2026-03-30T07:22:30.000Z",
       "competition": {
         "id": "2wolc27r8z03itcvwp43e38c5",
         "name": "دوري أوروجواي الممتاز",
@@ -1708,11 +1550,7 @@
         "country_or_area_code": "URU",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/286fwlvd6dzntv6ewv3cyvb0p.png"
       },
-      "round": {
-        "id": "U30ws9UYPNIhfjXiXJSxx",
-        "name": "Liga AUF Uruguaya Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "Z1KywSAEZQ5t2eDRr_NAo",
         "name": "يوفينتود دي لاس بايدراس",
@@ -1726,8 +1564,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/26v2qpjhchmz068uykg9al4f6.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
       },
       "red_cards": {
         "team_a": 0,
@@ -1751,11 +1589,7 @@
         "country_or_area_code": "URU",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/286fwlvd6dzntv6ewv3cyvb0p.png"
       },
-      "round": {
-        "id": "U30ws9UYPNIhfjXiXJSxx",
-        "name": "Liga AUF Uruguaya Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "6u8ys7342bcadackfud1fd3kx",
         "name": "سيرو لارجو",
@@ -1794,11 +1628,7 @@
         "country_or_area_code": "URU",
         "logo": "https://cdn.sportfeeds.io/flags/areas/75/286fwlvd6dzntv6ewv3cyvb0p.png"
       },
-      "round": {
-        "id": "U30ws9UYPNIhfjXiXJSxx",
-        "name": "Liga AUF Uruguaya Apertura",
-        "display": false
-      },
+      "round": null,
       "team_a": {
         "id": "QI5fm-jrmNIB8pun4eD_A",
         "name": "سنترال إسبانيول",
