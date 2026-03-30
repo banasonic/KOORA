@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T10:10:58.521445+00:00",
+  "fetched_at_utc": "2026-03-30T11:18:22.758068+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -47,7 +47,7 @@
       "match_id": "-kzT4vIkp9vfHskuP6EnA",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T09:50:00.000Z",
-      "last_updated_at": "2026-03-30T09:53:26.000Z",
+      "last_updated_at": "2026-03-30T10:57:59.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -69,8 +69,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HAcxmvTDvlK-om9fi5ihn.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -86,7 +86,7 @@
       "match_id": "Nj6j5AtSS_YqeSPVRjTYB",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
-      "last_updated_at": "2026-03-30T10:05:21.000Z",
+      "last_updated_at": "2026-03-30T11:09:39.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -108,7 +108,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i5Y3sPM5PzrFuCyKpwHEe.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "red_cards": {
