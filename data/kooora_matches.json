@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T08:53:37.172747+00:00",
+  "fetched_at_utc": "2026-03-30T10:10:58.521445+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -45,9 +45,9 @@
     },
     {
       "match_id": "-kzT4vIkp9vfHskuP6EnA",
-      "status": "POSTPONED",
-      "start_date_utc": "2026-03-30T08:30:00.000Z",
-      "last_updated_at": "2026-03-30T08:38:08.000Z",
+      "status": "LIVE",
+      "start_date_utc": "2026-03-30T09:50:00.000Z",
+      "last_updated_at": "2026-03-30T09:53:26.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -84,9 +84,9 @@
     },
     {
       "match_id": "Nj6j5AtSS_YqeSPVRjTYB",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
-      "last_updated_at": "2026-03-29T15:02:22.000Z",
+      "last_updated_at": "2026-03-30T10:05:21.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -108,8 +108,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i5Y3sPM5PzrFuCyKpwHEe.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -523,8 +523,8 @@
     {
       "match_id": "NDixet-DkeVwp0saR2Etm",
       "status": "CANCELLED",
-      "start_date_utc": "2026-03-30T01:30:00.000Z",
-      "last_updated_at": "2026-03-30T03:23:40.000Z",
+      "start_date_utc": "2026-03-30T15:00:00.000Z",
+      "last_updated_at": "2026-03-30T06:44:21.000Z",
       "competition": {
         "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
