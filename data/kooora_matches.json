@@ -1,14 +1,14 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T05:51:02.062530+00:00",
+  "fetched_at_utc": "2026-03-30T07:19:07.545253+00:00",
   "groups_count": 17,
-  "matches_count": 39,
+  "matches_count": 41,
   "matches": [
     {
       "match_id": "kl5bwMOpXAmYMxLNmewrd",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T06:15:00.000Z",
-      "last_updated_at": "2026-03-25T18:23:39.000Z",
+      "last_updated_at": "2026-03-30T07:04:54.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -34,8 +34,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "red_cards": {
         "team_a": 0,
@@ -573,6 +573,49 @@
         "name": "مرسيدس بنز أرينا"
       },
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ألمانيا-ضد-غانا/FmY6-lcp97gyxhcH2tXgo"
+    },
+    {
+      "match_id": "NDixet-DkeVwp0saR2Etm",
+      "status": "CANCELLED",
+      "start_date_utc": "2026-03-30T01:30:00.000Z",
+      "last_updated_at": "2026-03-30T03:23:40.000Z",
+      "competition": {
+        "id": "2ty8ihceabty8yddmu31iuuej",
+        "name": "الدوري الكولومبي",
+        "country_or_area": "كولومبيا",
+        "country_or_area_code": "COL",
+        "logo": "https://cdn.sportfeeds.io/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png"
+      },
+      "round": {
+        "id": "Wc_IMaJwfPTqCek6LhpLN",
+        "name": "Primera A Apertura",
+        "display": false
+      },
+      "team_a": {
+        "id": "SWelu9-p4LhgWJgJXVl-n",
+        "name": "لايانيروس",
+        "code_name": "LLF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HajBRHL-F22oWCuMGY65c.png"
+      },
+      "team_b": {
+        "id": "1m0l6lfeg2gpncu6xjz21pv9n",
+        "name": "أونسي كالداس",
+        "code_name": "OCA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDgDe0ozOilTDGKFBeJJm.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 1
+      },
+      "red_cards": {
+        "team_a": 0,
+        "team_b": 0
+      },
+      "aggregate_score": null,
+      "penalty_score": null,
+      "tv_channels": [],
+      "venue": null,
+      "match_url": "https://www.kooora.com/كرة-القدم/مباراة/لايانيروس-ضد-أونسي-كالداس/NDixet-DkeVwp0saR2Etm"
     },
     {
       "match_id": "rBy1p6GmZ6MGuPWwiE34n",
@@ -1652,6 +1695,49 @@
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ليبيرتاد-ضد-ريكوليتا/oiU1yZrDqIglNeFVZawWB"
+    },
+    {
+      "match_id": "DubKWVKD8PlZm1VRTJ849",
+      "status": "POSTPONED",
+      "start_date_utc": "2026-03-29T16:00:00.000Z",
+      "last_updated_at": "2026-03-29T13:54:08.000Z",
+      "competition": {
+        "id": "2wolc27r8z03itcvwp43e38c5",
+        "name": "دوري أوروجواي الممتاز",
+        "country_or_area": "أورغواي",
+        "country_or_area_code": "URU",
+        "logo": "https://cdn.sportfeeds.io/flags/areas/75/286fwlvd6dzntv6ewv3cyvb0p.png"
+      },
+      "round": {
+        "id": "U30ws9UYPNIhfjXiXJSxx",
+        "name": "Liga AUF Uruguaya Apertura",
+        "display": false
+      },
+      "team_a": {
+        "id": "Z1KywSAEZQ5t2eDRr_NAo",
+        "name": "يوفينتود دي لاس بايدراس",
+        "code_name": "JUV",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/otJOdMERwyWQXGSxRxd8E.png"
+      },
+      "team_b": {
+        "id": "26v2qpjhchmz068uykg9al4f6",
+        "name": "بوسطن ريفر",
+        "code_name": "BOR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/26v2qpjhchmz068uykg9al4f6.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 0
+      },
+      "red_cards": {
+        "team_a": 0,
+        "team_b": 0
+      },
+      "aggregate_score": null,
+      "penalty_score": null,
+      "tv_channels": [],
+      "venue": null,
+      "match_url": "https://www.kooora.com/كرة-القدم/مباراة/يوفينتود-دي-لاس-بايدراس-ضد-بوسطن-ريفر/DubKWVKD8PlZm1VRTJ849"
     },
     {
       "match_id": "yDuJ9w6ewfRtumy0edmZp",
