@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T12:08:25.422887+00:00",
+  "fetched_at_utc": "2026-03-30T14:01:30.714598+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
@@ -84,9 +84,9 @@
     },
     {
       "match_id": "Nj6j5AtSS_YqeSPVRjTYB",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
-      "last_updated_at": "2026-03-30T12:04:43.000Z",
+      "last_updated_at": "2026-03-30T12:15:20.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -116,14 +116,11 @@
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
-      "tv_channels": [
-        {
-          "name": "DAZN Italia",
-          "url": "https://www.dazn.com/en-JO/home",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/UqqLpjcUyFlsNktavowJXMtl3PTztP5BfUsdTHc5.png"
-        }
-      ],
+      "penalty_score": {
+        "teamA": 3,
+        "teamB": 2
+      },
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الجابون-ضد-ترينيداد-وتوباجو/Nj6j5AtSS_YqeSPVRjTYB"
     },
@@ -209,9 +206,9 @@
     },
     {
       "match_id": "z1uw98FooNDHct8WRcBS4",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T13:00:00.000Z",
-      "last_updated_at": "2026-03-27T16:46:26.000Z",
+      "last_updated_at": "2026-03-30T13:50:29.000Z",
       "competition": {
         "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
@@ -233,8 +230,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZFHkbKZsYskj2L7dW2IOs.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "red_cards": {
         "team_a": 0,
@@ -1230,7 +1227,7 @@
       "match_id": "ptSeUZ7rzYFGFam0Skimg",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T12:00:00.000Z",
-      "last_updated_at": "2026-03-30T12:02:12.000Z",
+      "last_updated_at": "2026-03-30T13:10:41.000Z",
       "competition": {
         "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
