@@ -1,16 +1,14 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-30T17:35:21.975609+00:00",
+  "fetched_at_utc": "2026-03-30T18:22:09.185510+00:00",
   "groups_count": 17,
   "matches_count": 41,
   "matches": [
     {
-      "match_id": "kl5bwMOpXAmYMxLNmewrd",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T06:15:00.000Z",
       "last_updated_at": "2026-03-30T08:09:04.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -18,13 +16,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "bhu61cgwm07e2pik1jqmnztgl",
         "name": "نيوزيلندا",
         "code_name": "نيوزيلندا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3gfk-eOo0KuaOVJ5ZXnmT.png"
       },
       "team_b": {
-        "id": "4etj58jfe5zmfspk9pl7jfzr3",
         "name": "تشيلي",
         "code_name": "تشيلي",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png"
@@ -33,23 +29,16 @@
         "team_a": 4,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/نيوزيلندا-ضد-تشيلي/kl5bwMOpXAmYMxLNmewrd"
     },
     {
-      "match_id": "-kzT4vIkp9vfHskuP6EnA",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T09:50:00.000Z",
       "last_updated_at": "2026-03-30T11:48:24.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -57,13 +46,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "6jwullawcerruu29afyok2wgl",
         "name": "سانت كيتس ونيفيس",
         "code_name": "سانت كيتس ونيفس",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mxIazzdFWfjuYp6Wfz-Zg.png"
       },
       "team_b": {
-        "id": "d96nz378dui1d52pn5msjadat",
         "name": "جزر سليمان",
         "code_name": "جزر سليمان",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HAcxmvTDvlK-om9fi5ihn.png"
@@ -72,23 +59,16 @@
         "team_a": 4,
         "team_b": 2
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سانت-كيتس-ونيفيس-ضد-جزر-سليمان/-kzT4vIkp9vfHskuP6EnA"
     },
     {
-      "match_id": "Nj6j5AtSS_YqeSPVRjTYB",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
       "last_updated_at": "2026-03-30T12:15:20.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -96,13 +76,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "9p9g9bfefde4urqgmcfqy1ygl",
         "name": "الجابون",
         "code_name": "الجابون",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ldbMYmxHR7r0rNJ8fnYJ7.png"
       },
       "team_b": {
-        "id": "8vxfv3p9ff60t5v4mm1t5si4s",
         "name": "ترينيداد وتوباجو",
         "code_name": "ترينيداد وتوباجو",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i5Y3sPM5PzrFuCyKpwHEe.png"
@@ -111,26 +89,16 @@
         "team_a": 2,
         "team_b": 2
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": {
-        "teamA": 3,
-        "teamB": 2
-      },
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الجابون-ضد-ترينيداد-وتوباجو/Nj6j5AtSS_YqeSPVRjTYB"
     },
     {
-      "match_id": "8M5lzkPVE-qR9b8970Ycu",
       "status": "CANCELLED",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
       "last_updated_at": "2025-12-16T11:56:57.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -138,13 +106,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "3l2t2db0c5ow2f7s7bhr6mij4",
         "name": "ألمانيا",
         "code_name": "ألمانيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png"
       },
       "team_b": {
-        "id": "39d8zamp9tvg3wc51jxc2a1c0",
         "name": "كوت ديفوار",
         "code_name": "ساحل العاج",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bceIU_PhJQmfKntaE3Fyp.png"
@@ -153,12 +119,7 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": {
         "name": "مرسيدس بنز أرينا"
@@ -166,12 +127,10 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ألمانيا-ضد-كوت-ديفوار/8M5lzkPVE-qR9b8970Ycu"
     },
     {
-      "match_id": "haRWHJ6gcs744CKADMk91",
       "status": "CANCELLED",
       "start_date_utc": "2026-03-30T10:00:00.000Z",
       "last_updated_at": "2026-03-26T18:20:27.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -179,13 +138,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "b9mwx4b6glg4kgbqgm3uysf3l",
         "name": "الإمارات العربية المتحدة",
         "code_name": "الإمارات",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ooIu8GFqpb2nECgSX-4ly.png"
       },
       "team_b": {
-        "id": "c2dynfzp9nvwccr1c6n0fxhly",
         "name": "جزر الفارو",
         "code_name": "جزر الفارو",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t28Oxi_DhMbVKFBPnSQlX.png"
@@ -194,23 +151,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الإمارات-العربية-المتحدة-ضد-جزر-الفارو/haRWHJ6gcs744CKADMk91"
     },
     {
-      "match_id": "z1uw98FooNDHct8WRcBS4",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T13:00:00.000Z",
       "last_updated_at": "2026-03-30T15:06:28.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -218,13 +168,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "3oht9gs0l91fikms2798i8c35",
         "name": "إندونيسيا",
         "code_name": "إندونيسيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6RKBAlFSIdYWkX4oT6DWc.png"
       },
       "team_b": {
-        "id": "d3k4ua9v848s086vspbbasq9l",
         "name": "بلغاريا",
         "code_name": "بلغاريا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZFHkbKZsYskj2L7dW2IOs.png"
@@ -233,23 +181,16 @@
         "team_a": 0,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/إندونيسيا-ضد-بلغاريا/z1uw98FooNDHct8WRcBS4"
     },
     {
-      "match_id": "eNQbtSaXZKSbyMTTKjy7n",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T14:00:00.000Z",
       "last_updated_at": "2026-03-30T15:57:12.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -257,13 +198,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "88jwqq14es3obmtaxvj042tnv",
         "name": "جرانادا",
         "code_name": "غرينادا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PxiXJJD-xhRCGKEzTeYdS.png"
       },
       "team_b": {
-        "id": "1bmo12zm87ntftwze4ihltiom",
         "name": "كينيا",
         "code_name": "كينيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_c1K4ZaDAChRzp0Oc9pMW.png"
@@ -272,23 +211,16 @@
         "team_a": 0,
         "team_b": 3
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جرانادا-ضد-كينيا/eNQbtSaXZKSbyMTTKjy7n"
     },
     {
-      "match_id": "y4091NwnOWDtzyqvuGaeW",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T14:00:00.000Z",
       "last_updated_at": "2026-03-30T16:06:21.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -296,13 +228,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "elayenut7wtobtmg7hyujzdoe",
         "name": "أوزبكستان",
         "code_name": "أوزباكستان",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SntX7kho3TurVjUJygroP.png"
       },
       "team_b": {
-        "id": "2pguid8qwn158n8a58waenbbq",
         "name": "فنزويلا",
         "code_name": "فنزويلا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QyxvUyYD8RAUfgzl7jzf1.png"
@@ -311,26 +241,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": {
-        "teamA": 5,
-        "teamB": 4
-      },
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أوزبكستان-ضد-فنزويلا/y4091NwnOWDtzyqvuGaeW"
     },
     {
-      "match_id": "2-FNivydg8hWP7sGB2IF2",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T17:22:31.000Z",
+      "last_updated_at": "2026-03-30T18:06:03.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -338,13 +258,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "9ms7hu667vap4ig8auym6gejm",
         "name": "أذربيجان",
         "code_name": "أذربيجان",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Mdh7hp7Fw6jJitnTqDXQF.png"
       },
       "team_b": {
-        "id": "1qobfm6yqjmm62f1xht94agjh",
         "name": "سيراليون",
         "code_name": "سيراليون",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iv6egYPPSrK2amKh_rZOo.png"
@@ -353,26 +271,16 @@
         "team_a": 1,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": {
-        "teamA": 9,
-        "teamB": 8
-      },
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أذربيجان-ضد-سيراليون/2-FNivydg8hWP7sGB2IF2"
     },
     {
-      "match_id": "e76MgiyCOKba9GZADG1iq",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T17:11:55.000Z",
+      "last_updated_at": "2026-03-30T18:06:09.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -380,54 +288,29 @@
       },
       "round": null,
       "team_a": {
-        "id": "3vmiqi95f7lo3ajug9huswg6z",
         "name": "قبرص",
         "code_name": "قبرص",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fn3tHHMXjUzLPBnBKZk0l.png"
       },
       "team_b": {
-        "id": "bl6qj4us3s4dnaylqqs2lgrlt",
         "name": "مولدوفا",
         "code_name": "مولدوفا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ed_wex1s3JDNl6Wzl9qqk.png"
       },
       "score": {
         "team_a": 3,
-        "team_b": 1
-      },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "aggregate_score": null,
-      "penalty_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 2",
-          "url": "https://connect.bein.com/live/66",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        },
-        {
-          "name": "Sport TV 2",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/VFz9hLxIepQrc3YXNSkpw.png"
-        },
-        {
-          "name": "TOD TV",
-          "url": "https://www.tod.tv/ar/sports",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/قبرص-ضد-مولدوفا/e76MgiyCOKba9GZADG1iq"
     },
     {
-      "match_id": "6l21oD3aIbnsBBSzUy-IG",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T17:30:00.000Z",
-      "last_updated_at": "2026-03-30T17:32:56.000Z",
+      "last_updated_at": "2026-03-30T18:17:32.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -435,38 +318,29 @@
       },
       "round": null,
       "team_a": {
-        "id": "a11jsz5fz6ovaaj37h9g2uzil",
         "name": "رواندا",
         "code_name": "رواندا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FFxCNbB2TBU-9qgJiLw-O.png"
       },
       "team_b": {
-        "id": "dn9qxtuq8irt13i3e6uycnkp7",
         "name": "إستونيا",
         "code_name": "إستونيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KrlynJqwlOEmzrfWKFUlw.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "red_cards": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/رواندا-ضد-إستونيا/6l21oD3aIbnsBBSzUy-IG"
     },
     {
-      "match_id": "FmY6-lcp97gyxhcH2tXgo",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
-      "last_updated_at": "2026-03-29T15:54:02.000Z",
+      "last_updated_at": "2026-03-30T18:20:14.000Z",
       "competition": {
-        "id": "cesdwwnxbc5fmajgroc0hqzy2",
         "name": "المباريات الودية",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -474,13 +348,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "3l2t2db0c5ow2f7s7bhr6mij4",
         "name": "ألمانيا",
         "code_name": "ألمانيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png"
       },
       "team_b": {
-        "id": "9bix8nlt6cgbson25qntg2zzh",
         "name": "غانا",
         "code_name": "غانا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nj2LTtd5H8dMnxlr77ngO.png"
@@ -489,12 +361,7 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [
         {
           "name": "beIN Sports Mena 1",
@@ -518,12 +385,10 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ألمانيا-ضد-غانا/FmY6-lcp97gyxhcH2tXgo"
     },
     {
-      "match_id": "NDixet-DkeVwp0saR2Etm",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T15:00:00.000Z",
       "last_updated_at": "2026-03-30T16:59:03.000Z",
       "competition": {
-        "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
         "country_or_area": "كولومبيا",
         "country_or_area_code": "COL",
@@ -531,13 +396,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "SWelu9-p4LhgWJgJXVl-n",
         "name": "لايانيروس",
         "code_name": "LLF",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HajBRHL-F22oWCuMGY65c.png"
       },
       "team_b": {
-        "id": "1m0l6lfeg2gpncu6xjz21pv9n",
         "name": "أونسي كالداس",
         "code_name": "OCA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDgDe0ozOilTDGKFBeJJm.png"
@@ -546,23 +409,16 @@
         "team_a": 1,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/لايانيروس-ضد-أونسي-كالداس/NDixet-DkeVwp0saR2Etm"
     },
     {
-      "match_id": "rBy1p6GmZ6MGuPWwiE34n",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T23:10:00.000Z",
       "last_updated_at": "2026-02-17T12:24:04.000Z",
       "competition": {
-        "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
         "country_or_area": "كولومبيا",
         "country_or_area_code": "COL",
@@ -570,13 +426,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "bzpygd5fja0tbb2x8daphil1l",
         "name": "إنديبينديينتي ميديلين",
         "code_name": "IME",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w6W7fLr7O2cXppiGkR7gv.png"
       },
       "team_b": {
-        "id": "8ohqbddhjvcj22wgxxvcladcx",
         "name": "أميركا دي كالي",
         "code_name": "AMC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bLghIzXWDV39hXthzBUp5.png"
@@ -585,23 +439,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/إنديبينديينتي-ميديلين-ضد-أميركا-دي-كالي/rBy1p6GmZ6MGuPWwiE34n"
     },
     {
-      "match_id": "eNHcrRsnS0FDBFkVi_SGe",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T01:20:00.000Z",
       "last_updated_at": "2026-02-26T09:18:03.000Z",
       "competition": {
-        "id": "2ty8ihceabty8yddmu31iuuej",
         "name": "الدوري الكولومبي",
         "country_or_area": "كولومبيا",
         "country_or_area_code": "COL",
@@ -609,13 +456,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "eqbww924pupg9vspauc0h7bt6",
         "name": "ميلوناريوس",
         "code_name": "MIL",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U2dAavtHT10xaPSBOX0wZ.png"
       },
       "team_b": {
-        "id": "263edk7xyjafv0cfktqymjcmn",
         "name": "فورتاليزا",
         "code_name": "FOR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WWYGzghtcL-M4YXdbJG6o.png"
@@ -624,23 +469,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ميلوناريوس-ضد-فورتاليزا/eNHcrRsnS0FDBFkVi_SGe"
     },
     {
-      "match_id": "qdbWn4tN8a7WYHXjHpIt_",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T00:15:00.000Z",
       "last_updated_at": "2026-03-23T09:07:37.000Z",
       "competition": {
-        "id": "bdtat25m14jy85y484z3e6lf",
         "name": "كأس الأرجنتين",
         "country_or_area": "الأرجنتين",
         "country_or_area_code": "ARG",
@@ -648,13 +486,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "5o5wtxn03ktvxcdrpxht5aqdp",
         "name": "يونيون",
         "code_name": "UNI",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7-HpkJiohQH2LOQhix8LM.png"
       },
       "team_b": {
-        "id": "334oyhg79jbvoa6me5joiovs3",
         "name": "اغروبيكواريو",
         "code_name": "AGR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/54FxwGsBFLfC8f0gWsTOq.png"
@@ -663,23 +499,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/يونيون-ضد-اغروبيكواريو/qdbWn4tN8a7WYHXjHpIt_"
     },
     {
-      "match_id": "nQG-EI9RL_KHqNh1pfEcj",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
       "last_updated_at": "2026-03-26T10:00:25.000Z",
       "competition": {
-        "id": "66nxwll8fur0rtp9q7wqaki1l",
         "name": "دوري الدرجة الثالثة الأرجنتيني",
         "country_or_area": "الأرجنتين",
         "country_or_area_code": "ARG",
@@ -687,13 +516,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "n2Qwn8h8jMyOI9FyI7z6B",
         "name": "Atletico Escobar",
         "code_name": "AES",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "team_b": {
-        "id": "61l0n6q7qttua4pfhibh9wl15",
         "name": "سبورتيفو لاس باريخاس",
         "code_name": "SLP",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w4M5clLnwEanLRfHdZ1Fi.png"
@@ -702,23 +529,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/atletico-escobar-ضد-سبورتيفو-لاس-باريخاس/nQG-EI9RL_KHqNh1pfEcj"
     },
     {
-      "match_id": "cJu0eVSJj0HdNumv4yf2N",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T19:00:00.000Z",
       "last_updated_at": "2026-03-09T17:07:25.000Z",
       "competition": {
-        "id": "byu00jvt1j6csyv4y1lkt2fm2",
         "name": "دوري الدرجة الثانية الأرجنتيني",
         "country_or_area": "الأرجنتين",
         "country_or_area_code": "ARG",
@@ -726,13 +546,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "NCTNInRnm6QKwn4v_uAWF",
         "name": "ديفينسوريس دي بيلغرانو",
         "code_name": "DED",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rJIxg9gAueCEPKPnxa6tW.png"
       },
       "team_b": {
-        "id": "1q0ukadexm6xinnytfac9eglg",
         "name": "أتل. رافاييلا",
         "code_name": "RAF",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UiLRptEmijxkBMsF5PHgp.png"
@@ -741,23 +559,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ديفينسوريس-دي-بيلغرانو-ضد-أتل-رافاييلا/cJu0eVSJj0HdNumv4yf2N"
     },
     {
-      "match_id": "KFj_heiNAIrWZflXTWZAt",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T21:30:00.000Z",
       "last_updated_at": "2026-03-26T06:06:31.000Z",
       "competition": {
-        "id": "4aaa66sz94tnqiw08bqxsqwoc",
         "name": "دوري الشمال البرازيلي",
         "country_or_area": "البرازيل",
         "country_or_area_code": "BRA",
@@ -765,13 +576,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "3v5n7ey0608pp21v1fphxwnrr",
         "name": "جاكوبينس",
         "code_name": "ECJ",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xFJecFaRgKXYuzTAPDFUL.png"
       },
       "team_b": {
-        "id": "8s13aac2olkq7v7wc7wxe386z",
         "name": "أميركا آر إن",
         "code_name": "AMR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1DxunCnPcRCYR3gPQOiF5.png"
@@ -780,23 +589,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جاكوبينس-ضد-أميركا-آر-إن/KFj_heiNAIrWZflXTWZAt"
     },
     {
-      "match_id": "D3eiW1RVVV1ivF7Y7mjkY",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T21:00:00.000Z",
       "last_updated_at": "2026-03-26T13:54:48.000Z",
       "competition": {
-        "id": "bly7ema5au6j40i0grhl0pnub",
         "name": "دوري تشيلي الدرجة الثانية",
         "country_or_area": "تشيلي",
         "country_or_area_code": "CHI",
@@ -804,13 +606,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "7h7fqxh99usu5e961lp7e9ys0",
         "name": "ماجالانيس",
         "code_name": "MAG",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EqYec-_adm4A8q_pVK9N7.png"
       },
       "team_b": {
-        "id": "8SPzZZCaR7EyW71azmXI4",
         "name": "رينجرز",
         "code_name": "RAN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yGof3722I0i-UlPForsA_.png"
@@ -819,23 +619,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ماجالانيس-ضد-رينجرز/D3eiW1RVVV1ivF7Y7mjkY"
     },
     {
-      "match_id": "nfqtSC0ueH9oMzuW7fldE",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T20:00:00.000Z",
       "last_updated_at": "2026-01-23T07:36:30.000Z",
       "competition": {
-        "id": "by5nibd18nkt40t0j8a0j5yzx",
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
         "country_or_area_code": "COL",
@@ -843,13 +636,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "iry3mze71anmpn6r5fx8goev",
         "name": "أتلتيكو هويلا",
         "code_name": "IND",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-IYOxAFUUcTMOcsDWP-F7.png"
       },
       "team_b": {
-        "id": "1jrsulhvngpatxxrb6qoyr3sr",
         "name": "يونيون ماجدالينا",
         "code_name": "UNM",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fPvxQ14B0GXJxijHkoTXZ.png"
@@ -858,23 +649,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أتلتيكو-هويلا-ضد-يونيون-ماجدالينا/nfqtSC0ueH9oMzuW7fldE"
     },
     {
-      "match_id": "j9b5Mweh6RnatEeITraWX",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T00:00:00.000Z",
       "last_updated_at": "2026-03-23T15:37:14.000Z",
       "competition": {
-        "id": "by5nibd18nkt40t0j8a0j5yzx",
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
         "country_or_area_code": "COL",
@@ -882,13 +666,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "Y-Pi3BI-cCdMUW8-JyLta",
         "name": "اورسومارسو",
         "code_name": "ORS",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sN1TsmK3pFPKCNYiTR5yi.png"
       },
       "team_b": {
-        "id": "ev6jd4auoqbnblcuniedvgbht",
         "name": "كورتولوا",
         "code_name": "PAL",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aNDiZv426c5FQLj66oJd9.png"
@@ -897,23 +679,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/اورسومارسو-ضد-كورتولوا/j9b5Mweh6RnatEeITraWX"
     },
     {
-      "match_id": "ogP3brWxvDE0VrO9Bu4eP",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:45:00.000Z",
       "last_updated_at": "2026-02-21T16:32:37.000Z",
       "competition": {
-        "id": "bockl24qpr7ryjl8b6obukga",
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
         "country_or_area_code": "ENG",
@@ -921,13 +696,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "8nd7rqpyxsujb6oflukaf8y27",
         "name": "تشيلمسفورد",
         "code_name": "CHF",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OUYdSuJVmA2Y6x29Puhlc.png"
       },
       "team_b": {
-        "id": "2pc1hy076rm36d2fp3rvnu2yr",
         "name": "توتين",
         "code_name": "AFC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g6-CLR6kB_mGEDb72kT83.png"
@@ -936,12 +709,7 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": {
         "name": "Melbourne Community Stadium"
@@ -949,12 +717,10 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/تشيلمسفورد-ضد-توتين/ogP3brWxvDE0VrO9Bu4eP"
     },
     {
-      "match_id": "snru3OkvVeLJRoN_l6aZd",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T18:00:00.000Z",
-      "last_updated_at": "2026-02-23T06:09:04.000Z",
+      "last_updated_at": "2026-03-30T18:06:29.000Z",
       "competition": {
-        "id": "phHh333PSK5VnGvkhSKxn",
         "name": "الدوري الاحتياطي الممتاز 1",
         "country_or_area": "إنجلترا",
         "country_or_area_code": "ENG",
@@ -962,27 +728,20 @@
       },
       "round": null,
       "team_a": {
-        "id": "1XEQTBcILVa7CE3MHTDsi",
         "name": "Sunderland Academy",
         "code_name": "SAC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mWiXTALD3XfK2KI1tDdPE.png"
       },
       "team_b": {
-        "id": "nD3RaAWAwHY-CU2dex1Vf",
         "name": "Reading Academy",
         "code_name": "RAC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hX4XEkFOXADWfBovl61MG.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "red_cards": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": {
         "name": "Eppleton Colliery Welfare Ground"
@@ -990,12 +749,10 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/sunderland-academy-ضد-reading-academy/snru3OkvVeLJRoN_l6aZd"
     },
     {
-      "match_id": "XGmGUFXKk11jLM7bSoigD",
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-30T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T17:13:27.000Z",
+      "last_updated_at": "2026-03-30T17:54:45.000Z",
       "competition": {
-        "id": "2z7257m7hj58zuxcjrsg4erzc",
         "name": "الدوري الألماني لكرة القدم للسيدات",
         "country_or_area": "ألمانيا",
         "country_or_area_code": "GER",
@@ -1003,38 +760,29 @@
       },
       "round": null,
       "team_a": {
-        "id": "3P3gR1Gn-wUk4F-7-i1Na",
         "name": "هامبورج",
         "code_name": "HSV",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "team_b": {
-        "id": "M16LyDEapWbqXvJM4Zm3v",
         "name": "باير ليفركوزن",
         "code_name": "LEV",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CEAPJNPSO8c1B2yCmf6qW.png"
       },
       "score": {
         "team_a": 1,
-        "team_b": 2
-      },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
+        "team_b": 3
       },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/هامبورج-ضد-باير-ليفركوزن/XGmGUFXKk11jLM7bSoigD"
     },
     {
-      "match_id": "YxSnGD3xigIu3ZlHp9gLq",
       "status": "LIVE",
       "start_date_utc": "2026-03-30T17:00:00.000Z",
-      "last_updated_at": "2026-03-30T17:29:31.000Z",
+      "last_updated_at": "2026-03-30T18:02:57.000Z",
       "competition": {
-        "id": "ZNcRhX6VgVS_fyqtvT9nQ",
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
         "country_or_area_code": "WORLD",
@@ -1042,13 +790,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "0BD-SX2C6FpO0TuHMeHpn",
         "name": "فرنسا تحت 21",
         "code_name": "FRA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AMdfNu3JEWosZ3MToKZoi.png"
       },
       "team_b": {
-        "id": "YP1gv7wZ9p5_t1Rl8PwBy",
         "name": "آيسلندا تحت 21",
         "code_name": "ICE",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hwIA4QG08kavxigTopYHQ.png"
@@ -1057,23 +803,16 @@
         "team_a": 2,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/فرنسا-تحت-21-ضد-آيسلندا-تحت-21/YxSnGD3xigIu3ZlHp9gLq"
     },
     {
-      "match_id": "39NbpQBx6DkeAC-8vDa4j",
       "status": "POSTPONED",
       "start_date_utc": "2026-03-30T12:00:00.000Z",
       "last_updated_at": "2026-03-12T12:14:02.000Z",
       "competition": {
-        "id": "abs7n2ae3oydilk0tgmpnsj89",
         "name": "الدوري الإيراني الدرجة الأولى",
         "country_or_area": "إيران",
         "country_or_area_code": "IRN",
@@ -1081,13 +820,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "6KpWSjN8q93H46XSBpn29",
         "name": "ميس شاهر اي باباك",
         "code_name": "MSB",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jwvD_n9eXABZuSeGqaq2I.png"
       },
       "team_b": {
-        "id": "18masxsd4v3ewfhtnp6xaljob",
         "name": "صنعت نفط عبادان",
         "code_name": "SNA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i7SdG_YgYEzEvqBjE_ZIg.png"
@@ -1096,23 +833,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ميس-شاهر-اي-باباك-ضد-صنعت-نفط-عبادان/39NbpQBx6DkeAC-8vDa4j"
     },
     {
-      "match_id": "LJciZN5nmz83zSHshwH1h",
       "status": "POSTPONED",
       "start_date_utc": "2026-03-30T12:30:00.000Z",
       "last_updated_at": "2026-03-29T15:11:51.000Z",
       "competition": {
-        "id": "abs7n2ae3oydilk0tgmpnsj89",
         "name": "الدوري الإيراني الدرجة الأولى",
         "country_or_area": "إيران",
         "country_or_area_code": "IRN",
@@ -1120,13 +850,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "4rc5bz4h4vejwwudf1knmuabf",
         "name": "نساجي مازندران",
         "code_name": "NAS",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/asxCfY4s63jFwjLtGvRw5.png"
       },
       "team_b": {
-        "id": "MHSsaKxo5Ct5N8sObrIJx",
         "name": "داماش",
         "code_name": "DAM",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CpAJ_Esqp67DPaVsGPyIU.png"
@@ -1135,23 +863,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/نساجي-مازندران-ضد-داماش/LJciZN5nmz83zSHshwH1h"
     },
     {
-      "match_id": "sHhm9F0Tu8t9s1dKGWvb7",
       "status": "POSTPONED",
       "start_date_utc": "2026-03-30T12:30:00.000Z",
       "last_updated_at": "2026-03-29T15:11:53.000Z",
       "competition": {
-        "id": "abs7n2ae3oydilk0tgmpnsj89",
         "name": "الدوري الإيراني الدرجة الأولى",
         "country_or_area": "إيران",
         "country_or_area_code": "IRN",
@@ -1159,13 +880,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "uOHkQozJ06nnRQ_m3tgbG",
         "name": "بارس جنوبي جم",
         "code_name": "PJJ",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D8Q16N5bKIfwLzjynirCy.png"
       },
       "team_b": {
-        "id": "PLLrGRpbA5NX2UGt4ESS0",
         "name": "نفط بندر عباس",
         "code_name": "NBA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VXcGJcg4KwCSV6eqSl8e-.png"
@@ -1174,23 +893,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بارس-جنوبي-جم-ضد-نفط-بندر-عباس/sHhm9F0Tu8t9s1dKGWvb7"
     },
     {
-      "match_id": "zBPQPGNeiuTXKdU5dtyNZ",
       "status": "POSTPONED",
       "start_date_utc": "2026-03-30T13:00:00.000Z",
       "last_updated_at": "2026-03-29T15:11:56.000Z",
       "competition": {
-        "id": "abs7n2ae3oydilk0tgmpnsj89",
         "name": "الدوري الإيراني الدرجة الأولى",
         "country_or_area": "إيران",
         "country_or_area_code": "IRN",
@@ -1198,13 +910,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "iQmNTjybQSNEBkF3uVHKZ",
         "name": "شينافار سازي قشم",
         "code_name": "SHQ",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AvJSe9cbjVuvPDFsvSD9K.png"
       },
       "team_b": {
-        "id": "Klj9Mg0lkLrbmAqSKFgFI",
         "name": "سايبا",
         "code_name": "SAI",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hnCgO3CjsuVMnHaCjA01-.png"
@@ -1213,23 +923,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/شينافار-سازي-قشم-ضد-سايبا/zBPQPGNeiuTXKdU5dtyNZ"
     },
     {
-      "match_id": "ptSeUZ7rzYFGFam0Skimg",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T12:00:00.000Z",
       "last_updated_at": "2026-03-30T14:04:05.000Z",
       "competition": {
-        "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
         "country_or_area_code": "IRQ",
@@ -1237,13 +940,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "2oiljz2156dxal4i76tq2xv8v",
         "name": "الطلبة",
         "code_name": "ALT",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StLQdbu7fSzmG_Z6esghr.png"
       },
       "team_b": {
-        "id": "5lat9h2cc55gvpsbpvkc87c32",
         "name": "النفظ",
         "code_name": "ALN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HjmZLdY5T-Smft5hsEX8g.png"
@@ -1252,23 +953,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الطلبة-ضد-النفظ/ptSeUZ7rzYFGFam0Skimg"
     },
     {
-      "match_id": "VlkPEwB3pcvKCVmNG5_96",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
       "last_updated_at": "2026-03-30T16:33:31.000Z",
       "competition": {
-        "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
         "country_or_area_code": "IRQ",
@@ -1276,13 +970,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "bsxiqy6ze23hmlwli5gf4swb",
         "name": "الكرخ",
         "code_name": "ALK",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/itsF2kyFa2TxqVM6FGvGS.png"
       },
       "team_b": {
-        "id": "7m8jhzntv60ryrtti1adsddwa",
         "name": "الميناء",
         "code_name": "ALM",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AdX14PRG4jArm83OG-U7D.png"
@@ -1291,23 +983,16 @@
         "team_a": 1,
         "team_b": 0
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الكرخ-ضد-الميناء/VlkPEwB3pcvKCVmNG5_96"
     },
     {
-      "match_id": "gUGhKPYJNRfpprt1mey20",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
       "last_updated_at": "2026-03-30T16:41:26.000Z",
       "competition": {
-        "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
         "country_or_area_code": "IRQ",
@@ -1315,13 +1000,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "Pgj8lTePBG51FlI3ezqp1",
         "name": "الموصل",
         "code_name": "ALM",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "team_b": {
-        "id": "5xkgkz18q1ceaasahxde5j9p1",
         "name": "الكهرباء",
         "code_name": "ALK",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e-I_szIeuvt_2auFy5xL9.png"
@@ -1330,23 +1013,16 @@
         "team_a": 2,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الموصل-ضد-الكهرباء/gUGhKPYJNRfpprt1mey20"
     },
     {
-      "match_id": "re8aDH5KjwtjE1cKyczcY",
       "status": "RESULT",
       "start_date_utc": "2026-03-30T14:30:00.000Z",
       "last_updated_at": "2026-03-30T16:39:11.000Z",
       "competition": {
-        "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
         "country_or_area_code": "IRQ",
@@ -1354,13 +1030,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "82sb17udbc74ca9jrswo8zgq8",
         "name": "دهوك",
         "code_name": "DUH",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZoC_4Bu0cCo2IFw4nHgCc.png"
       },
       "team_b": {
-        "id": "6akf1fuv4d5thnajakpp18u41",
         "name": "زاخو",
         "code_name": "ZAK",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w-lPM253jTXUydO6vCt9J.png"
@@ -1369,23 +1043,16 @@
         "team_a": 0,
         "team_b": 1
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/دهوك-ضد-زاخو/re8aDH5KjwtjE1cKyczcY"
     },
     {
-      "match_id": "XY_-fjdBCoSGRn2a9dy0_",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
       "last_updated_at": "2026-03-26T12:58:16.000Z",
       "competition": {
-        "id": "duuc1qczfnawwncru1ly6o66",
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
         "country_or_area_code": "IRQ",
@@ -1393,13 +1060,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "9pvaq4am2zy6qwp63mor2tsd3",
         "name": "بغداد إف سي",
         "code_name": "BFC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CjjyHCisTa2AmzdrrPiej.png"
       },
       "team_b": {
-        "id": "gdk3Dd97oKyEWDS359JtF",
         "name": "الكرمة",
         "code_name": "ALK",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZvoO5asogSK3boEXM7lRn.png"
@@ -1408,23 +1073,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بغداد-إف-سي-ضد-الكرمة/XY_-fjdBCoSGRn2a9dy0_"
     },
     {
-      "match_id": "iHnm9HbvpHEenjuHTKMMy",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
       "last_updated_at": "2026-02-16T10:46:56.000Z",
       "competition": {
-        "id": "1zp1du9n4rj36p1ss9zbxtqfb",
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
         "country_or_area_code": "ITA",
@@ -1432,13 +1090,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "4t5jer3f32ve0pzq3c3e1n80w",
         "name": "أريتزو",
         "code_name": "ARE",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-ZebA8HpcdRV8BFKlaE9t.png"
       },
       "team_b": {
-        "id": "dibn6hjca9timadlm3pqve4z9",
         "name": "أسكولي",
         "code_name": "ASC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oqdzfwPubB-iXt7s1g-oj.png"
@@ -1447,23 +1103,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أريتزو-ضد-أسكولي/iHnm9HbvpHEenjuHTKMMy"
     },
     {
-      "match_id": "Hkuv9iw0WUT_BNkvabdrp",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T18:30:00.000Z",
       "last_updated_at": "2026-02-16T10:47:04.000Z",
       "competition": {
-        "id": "1zp1du9n4rj36p1ss9zbxtqfb",
         "name": "الدوري الإيطالي الدرجة الثالثة",
         "country_or_area": "إيطاليا",
         "country_or_area_code": "ITA",
@@ -1471,13 +1120,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "alj09hp6s9yl8olf0tw617eu2",
         "name": "ساسيرتانا",
         "code_name": "CAS",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kCuYC6scoJoYSPD99-hlU.png"
       },
       "team_b": {
-        "id": "4xb8zhua74roo43ccdt8g67fc",
         "name": "سورينتو",
         "code_name": "SOR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7zQuIeapxnEJDU2LXxpUs.png"
@@ -1486,23 +1133,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ساسيرتانا-ضد-سورينتو/Hkuv9iw0WUT_BNkvabdrp"
     },
     {
-      "match_id": "oiU1yZrDqIglNeFVZawWB",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T23:30:00.000Z",
       "last_updated_at": "2026-03-23T15:44:07.000Z",
       "competition": {
-        "id": "5y0z0l2epprzbscvzsgldw8vu",
         "name": "دوري باراجواي",
         "country_or_area": "باراغواي",
         "country_or_area_code": "PAR",
@@ -1510,13 +1150,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "984ibdjplnlwb36kt6wbgwe97",
         "name": "ليبيرتاد",
         "code_name": "LIB",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jMgyXX3E_zz3nN0LAzKU_.png"
       },
       "team_b": {
-        "id": "4Zvhb7BIEf3zpcfOTIMcL",
         "name": "ريكوليتا",
         "code_name": "REC",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9U3Z3-ro3jMbs4JufCcxs.png"
@@ -1525,23 +1163,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ليبيرتاد-ضد-ريكوليتا/oiU1yZrDqIglNeFVZawWB"
     },
     {
-      "match_id": "DubKWVKD8PlZm1VRTJ849",
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-30T18:00:00.000Z",
-      "last_updated_at": "2026-03-30T07:22:30.000Z",
+      "last_updated_at": "2026-03-30T18:01:47.000Z",
       "competition": {
-        "id": "2wolc27r8z03itcvwp43e38c5",
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
         "country_or_area_code": "URU",
@@ -1549,38 +1180,29 @@
       },
       "round": null,
       "team_a": {
-        "id": "Z1KywSAEZQ5t2eDRr_NAo",
         "name": "يوفينتود دي لاس بايدراس",
         "code_name": "JUV",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/otJOdMERwyWQXGSxRxd8E.png"
       },
       "team_b": {
-        "id": "26v2qpjhchmz068uykg9al4f6",
         "name": "بوسطن ريفر",
         "code_name": "BOR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/26v2qpjhchmz068uykg9al4f6.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "red_cards": {
         "team_a": 0,
         "team_b": 0
       },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/يوفينتود-دي-لاس-بايدراس-ضد-بوسطن-ريفر/DubKWVKD8PlZm1VRTJ849"
     },
     {
-      "match_id": "yDuJ9w6ewfRtumy0edmZp",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-30T21:00:00.000Z",
       "last_updated_at": "2026-03-12T15:59:25.000Z",
       "competition": {
-        "id": "2wolc27r8z03itcvwp43e38c5",
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
         "country_or_area_code": "URU",
@@ -1588,13 +1210,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "6u8ys7342bcadackfud1fd3kx",
         "name": "سيرو لارجو",
         "code_name": "CEL",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/STZxTjVnR8EZHNDIh8Vbq.png"
       },
       "team_b": {
-        "id": "13dm67jajkwthfllv5h6uqha6",
         "name": "دانوبيو",
         "code_name": "DAN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lOdemtzOn2XkUea5L_6rj.png"
@@ -1603,23 +1223,16 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سيرو-لارجو-ضد-دانوبيو/yDuJ9w6ewfRtumy0edmZp"
     },
     {
-      "match_id": "dlyz2wMKdlcnvF4fxWb8U",
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T00:00:00.000Z",
       "last_updated_at": "2026-03-12T15:59:26.000Z",
       "competition": {
-        "id": "2wolc27r8z03itcvwp43e38c5",
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
         "country_or_area_code": "URU",
@@ -1627,13 +1240,11 @@
       },
       "round": null,
       "team_a": {
-        "id": "QI5fm-jrmNIB8pun4eD_A",
         "name": "سنترال إسبانيول",
         "code_name": "CEN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZqY16Vibu73JQtt7nLsox.png"
       },
       "team_b": {
-        "id": "dx57pww9amdsyxuwg679gwdhl",
         "name": "ديبورتيفو مالدونادو",
         "code_name": "MAL",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NkPNACmQsASu9SvG2ZTHp.png"
@@ -1642,12 +1253,7 @@
         "team_a": null,
         "team_b": null
       },
-      "red_cards": {
-        "team_a": 0,
-        "team_b": 0
-      },
       "aggregate_score": null,
-      "penalty_score": null,
       "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سنترال-إسبانيول-ضد-ديبورتيفو-مالدونادو/dlyz2wMKdlcnvF4fxWb8U"
