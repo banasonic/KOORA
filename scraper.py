@@ -65,7 +65,6 @@ class KoooraScraper:
         team = team or {}
         image = team.get("image") or {}
         return {
-            "id": team.get("id"),
             "name": team.get("name"),
             "code_name": team.get("codeName"),
             "logo": image.get("url"),
@@ -104,14 +103,11 @@ class KoooraScraper:
 
             for match in group.get("matches", []):
                 score = match.get("score") or {}
-                red_cards = match.get("redCards") or {}
                 item = {
-                    "match_id": match.get("id"),
                     "status": match.get("status"),
                     "start_date_utc": match.get("startDate"),
                     "last_updated_at": match.get("lastUpdatedAt"),
                     "competition": {
-                        "id": competition.get("id"),
                         "name": competition.get("name"),
                         "country_or_area": competition_area.get("name"),
                         "country_or_area_code": competition_area.get("code"),
@@ -124,12 +120,7 @@ class KoooraScraper:
                         "team_a": self.normalize_score(score.get("teamA")),
                         "team_b": self.normalize_score(score.get("teamB")),
                     },
-                    "red_cards": {
-                        "team_a": self.normalize_score(red_cards.get("teamA")),
-                        "team_b": self.normalize_score(red_cards.get("teamB")),
-                    },
                     "aggregate_score": match.get("aggregateScore"),
-                    "penalty_score": match.get("penaltyScore"),
                     "tv_channels": self.normalize_channels(match.get("tvChannels")),
                     "venue": match.get("venue"),
                     "match_url": self.normalize_match_url(match.get("link")),
@@ -169,7 +160,7 @@ if __name__ == "__main__":
             save_json(payload, OUTPUT_FILE)
             print(f"Saved {payload['matches_count']} matches to {OUTPUT_FILE}")
             break
-        except Exception as exc:  # noqa: BLE001
+        except Exception as exc:
             last_error = exc
             print(f"Attempt {attempt}/{retries} failed: {exc}")
             if attempt < retries:
