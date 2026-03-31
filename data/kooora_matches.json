@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-31T14:27:57.626746+00:00",
+  "fetched_at_utc": "2026-03-31T15:49:29.331200+00:00",
   "groups_count": 22,
   "matches_count": 115,
   "matches": [
@@ -305,9 +305,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/كازاخستان-ضد-جزر-القمر/MNJbloyP9fiCrlkZuyp2G"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-27T08:01:39.000Z",
+      "last_updated_at": "2026-03-31T15:48:48.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -326,8 +326,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w4bE4rgicuFdsw_NlcS4p.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -337,7 +337,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-02-03T08:07:21.000Z",
+      "last_updated_at": "2026-03-31T15:11:33.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -373,7 +373,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-03-30T07:08:04.000Z",
+      "last_updated_at": "2026-03-31T14:51:55.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -421,7 +421,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-03-13T06:11:28.000Z",
+      "last_updated_at": "2026-03-31T15:20:13.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -457,7 +457,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-03-23T15:25:09.000Z",
+      "last_updated_at": "2026-03-31T15:25:52.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -2492,9 +2492,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بوتان-ضد-سلطنة-بروناي/LF2hsx4j9AiMmj3TqYbEw"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T12:30:00.000Z",
-      "last_updated_at": "2026-03-31T14:20:46.000Z",
+      "last_updated_at": "2026-03-31T14:30:24.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2522,9 +2522,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/تايلاند-ضد-تركمانستان/uSByx9nUhEnPZHAm7obSM"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T13:30:00.000Z",
-      "last_updated_at": "2026-03-31T14:22:06.000Z",
+      "last_updated_at": "2026-03-31T15:30:28.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2543,8 +2543,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9uRFFer5CKqGYkHYeu0Al.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2554,7 +2554,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T14:00:00.000Z",
-      "last_updated_at": "2026-03-31T14:20:14.000Z",
+      "last_updated_at": "2026-03-31T15:05:14.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2573,7 +2573,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6OY5hwJOXCJADp72O5K8x.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "aggregate_score": null,
@@ -2674,7 +2674,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T14:00:00.000Z",
-      "last_updated_at": "2026-03-31T14:02:37.000Z",
+      "last_updated_at": "2026-03-31T15:36:38.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2694,7 +2694,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2702,39 +2702,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أرمينيا-تحت-21-ضد-شمال-مقدونيا-21/lvaVrjF_dvw5fV8xN6-cX"
     },
     {
-      "status": "POSTPONED",
-      "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-31T14:09:55.000Z",
-      "competition": {
-        "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
-        "country_or_area": "دولي",
-        "country_or_area_code": "WORLD",
-        "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
-      },
-      "round": null,
-      "team_a": {
-        "name": "جورجيا تحت 21",
-        "code_name": "GEO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/y28eRSPykYUsEdsaD6WMj.png"
-      },
-      "team_b": {
-        "name": "مالطا تحت 21",
-        "code_name": "MLT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8HKdpq03vAufOtEACO8AB.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "aggregate_score": null,
-      "tv_channels": [],
-      "venue": null,
-      "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جورجيا-تحت-21-ضد-مالطا-تحت-21/ZhjQgA2U6eU1kHph2YkgY"
-    },
-    {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T14:00:00.000Z",
-      "last_updated_at": "2026-03-31T14:06:30.000Z",
+      "last_updated_at": "2026-03-31T15:33:47.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2753,7 +2723,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OV_mx8-owP96iKLXMTspl.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "aggregate_score": null,
@@ -2762,9 +2732,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سلوفينيا-تحت-21-ضد-النرويج-تحت-21/zDlRE77LhSLVF2SUZJHar"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T14:30:00.000Z",
-      "last_updated_at": "2026-03-13T11:50:47.000Z",
+      "last_updated_at": "2026-03-31T15:37:03.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2783,8 +2753,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vEF-Z4SIGFIwVLhsClshc.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2792,9 +2762,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/هنجاريا-تحت-21-ضد-أوكرانيا-تحت-21/lHVW3NbEEIRJhocvD7FoR"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-23T07:57:11.000Z",
+      "last_updated_at": "2026-03-31T15:48:11.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2813,8 +2783,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/u4q3q7G6ZuA5j8igQ8CNr.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2822,9 +2792,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/فنلندا-تحت-21-ضد-قبرص-تحت-21/GcFai4mf2evK-AolsdPRI"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-23T07:57:19.000Z",
+      "last_updated_at": "2026-03-31T15:16:58.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2843,8 +2813,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPIl0P3n44mjCyOYoZrPB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2852,9 +2822,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جمهورية-التشيك-تحت-21-ضد-جبل-طارق-u21/hlm67A87m4EanVt7ZH3_8"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:22:41.000Z",
+      "last_updated_at": "2026-03-31T15:48:11.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2873,8 +2843,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8DojiYwKF1RKu9LATh3Du.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2882,9 +2852,39 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/kazakhstan-u21-ضد-آيرلندا-تحت-21/bFoPF3ut5OjM7ouFMzoI0"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:00:00.000Z",
-      "last_updated_at": "2026-03-13T11:49:33.000Z",
+      "last_updated_at": "2026-03-31T15:48:25.000Z",
+      "competition": {
+        "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
+        "country_or_area": "دولي",
+        "country_or_area_code": "WORLD",
+        "logo": "https://cdn.sportfeeds.io/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png"
+      },
+      "round": null,
+      "team_a": {
+        "name": "جورجيا تحت 21",
+        "code_name": "GEO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/y28eRSPykYUsEdsaD6WMj.png"
+      },
+      "team_b": {
+        "name": "مالطا تحت 21",
+        "code_name": "MLT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8HKdpq03vAufOtEACO8AB.png"
+      },
+      "score": {
+        "team_a": 3,
+        "team_b": 1
+      },
+      "aggregate_score": null,
+      "tv_channels": [],
+      "venue": null,
+      "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جورجيا-تحت-21-ضد-مالطا-تحت-21/ZhjQgA2U6eU1kHph2YkgY"
+    },
+    {
+      "status": "LIVE",
+      "start_date_utc": "2026-03-31T15:00:00.000Z",
+      "last_updated_at": "2026-03-31T15:48:12.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2903,8 +2903,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_rjnMiDN6NiSAO1beoNVY.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2912,9 +2912,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/israel-u21-ضد-البوسنة-والهرسك-21/TgUSzV4ZrykClwPaTmKKq"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T15:30:00.000Z",
-      "last_updated_at": "2026-03-13T11:50:47.000Z",
+      "last_updated_at": "2026-03-31T15:46:47.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -2933,8 +2933,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C6xBlIUNotnezS2okSSj5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -3064,7 +3064,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-03-13T11:51:56.000Z",
+      "last_updated_at": "2026-03-31T15:16:42.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -3244,7 +3244,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2026-02-12T13:45:57.000Z",
+      "last_updated_at": "2026-03-31T14:55:29.000Z",
       "competition": {
         "name": "تصفيات دوري الأمم الأوروبية - المسار الثالث",
         "country_or_area": "دولي",
@@ -3279,7 +3279,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T16:00:00.000Z",
-      "last_updated_at": "2025-02-19T10:42:48.000Z",
+      "last_updated_at": "2026-03-31T15:04:02.000Z",
       "competition": {
         "name": "تصفيات دوري الأمم الأوروبية - المسار الثالث",
         "country_or_area": "دولي",
@@ -3502,9 +3502,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/نوروز-ضد-نفط-ميسان/U7AYQ7GmTen9k-VDP7jnv"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T14:30:00.000Z",
-      "last_updated_at": "2026-03-29T15:26:46.000Z",
+      "last_updated_at": "2026-03-31T15:44:01.000Z",
       "competition": {
         "name": "دوري نجوم العراق",
         "country_or_area": "العراق",
@@ -3523,8 +3523,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B_2nAXBxIuSvS2BZLbfFW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -3780,7 +3780,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T14:00:00.000Z",
-      "last_updated_at": "2026-03-31T14:21:41.000Z",
+      "last_updated_at": "2026-03-31T15:33:46.000Z",
       "competition": {
         "name": "دوري أوروجواي الممتاز",
         "country_or_area": "أورغواي",
@@ -3799,8 +3799,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WSmarvNCekvw0csi5jaOv.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 2
+        "team_a": 3,
+        "team_b": 3
       },
       "aggregate_score": null,
       "tv_channels": [],
