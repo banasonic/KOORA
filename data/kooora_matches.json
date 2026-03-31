@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-31T08:39:53.105214+00:00",
+  "fetched_at_utc": "2026-03-31T10:09:39.517089+00:00",
   "groups_count": 22,
   "matches_count": 115,
   "matches": [
@@ -215,9 +215,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الكاميرون-ضد-الصين/J1c7_oTGG-wo1I-34Ub7N"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T09:10:00.000Z",
-      "last_updated_at": "2026-03-30T15:35:33.000Z",
+      "last_updated_at": "2026-03-31T09:59:31.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -236,8 +236,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nkGfOtmV5ZFrSU2CfTicW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2222,9 +2222,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/غوكولام-كيرلا-ضد-ايزاول/129TlJaQ4GzOVuNJ4hQen"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T09:00:00.000Z",
-      "last_updated_at": "2026-03-30T15:16:20.000Z",
+      "last_updated_at": "2026-03-31T10:03:24.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس آسيا",
         "country_or_area": "دولي",
@@ -2243,8 +2243,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5zd6I8bGDeb2BOOodKpW1.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
