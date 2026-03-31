@@ -1,6 +1,6 @@
 {
   "source": "https://www.kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_utc": "2026-03-31T19:38:27.414095+00:00",
+  "fetched_at_utc": "2026-03-31T20:50:57.541242+00:00",
   "groups_count": 22,
   "matches_count": 115,
   "matches": [
@@ -519,7 +519,7 @@
     {
       "status": "RESULT",
       "start_date_utc": "2026-03-31T17:30:00.000Z",
-      "last_updated_at": "2026-03-31T19:37:33.000Z",
+      "last_updated_at": "2026-03-31T20:43:42.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -547,9 +547,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جنوب-أفريقيا-ضد-بنما/aVMwotFt8kRhhY2Bsdo7_"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:04:05.000Z",
+      "last_updated_at": "2026-03-31T19:56:25.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -577,9 +577,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بنين-ضد-غينيا/KTlgZTObhGj6iGeKRM481"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:17:09.000Z",
+      "last_updated_at": "2026-03-31T20:00:47.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -599,28 +599,17 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "Arryadia HD",
-          "url": "https://snrtlive.ma/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/pFbqcBbuk2UkPcljlkrNu.jpg"
-        },
-        {
-          "name": "Al Oula",
-          "url": "https://www.snrt.ma/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/DkqWUCuFcESTRzACKp9-H.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/المغرب-ضد-باراجواي/an-oFJ-XkmvdMkBOhoO69"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:16:32.000Z",
+      "last_updated_at": "2026-03-31T19:55:40.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -640,7 +629,7 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 1
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -648,9 +637,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/بيرو-ضد-الهندوراس/kSQDRbZbSldnYzY_0VNis"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:30:00.000Z",
-      "last_updated_at": "2026-03-31T19:23:01.000Z",
+      "last_updated_at": "2026-03-31T20:30:44.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -673,20 +662,14 @@
         "team_b": 0
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "Al Oula Algérie",
-          "url": "https://www.entv.dz/ar/tv1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/32wupLtixHn6XINaI6wrP.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الجزائر-ضد-أوروجواي/TFtzOhVVulfwZQC-mcYbu"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:30:00.000Z",
-      "last_updated_at": "2026-03-31T19:36:57.000Z",
+      "last_updated_at": "2026-03-31T20:25:39.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -714,9 +697,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/كوت-ديفوار-ضد-إسكتلندا/uV63KedniCVjQ-kXVJiDz"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:34:02.000Z",
+      "last_updated_at": "2026-03-31T20:38:30.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -735,24 +718,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D2nOY1df51Lco9jymr8EA.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports XTRA 3",
-          "url": "https://connect.bein.com/live/72",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/uEgi76GgDGnlEfyoEgQC-.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/النمسا-ضد-كوريا-الجنوبية/a6Fj6eQvbYrSW1OrhfyV2"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:27.000Z",
+      "last_updated_at": "2026-03-31T20:37:43.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -775,32 +752,16 @@
         "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 5",
-          "url": "https://connect.bein.com/live/68",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
-        },
-        {
-          "name": "Sport TV 2",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/VFz9hLxIepQrc3YXNSkpw.png"
-        },
-        {
-          "name": "SuperSport Máximo 2",
-          "url": "https://supersport.com/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ويمبلي"
       },
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/إنجلترا-ضد-اليابان/FBBCIIs6VksMT4FtMwCQ9"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:19.000Z",
+      "last_updated_at": "2026-03-31T20:42:47.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -823,22 +784,14 @@
         "team_b": 0
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports XTRA 1",
-          "url": "https://connect.bein.com/live/103",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Nnn52AyKSxy65VG7f_m4W.png"
-        }
-      ],
-      "venue": {
-        "name": "أفيفا ستاديوم"
-      },
+      "tv_channels": [],
+      "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/آيرلندا-ضد-مقدونيا-الشمالية/-mmzpNxm_ZPg9EfCH6hHz"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:37:00.000Z",
+      "last_updated_at": "2026-03-31T20:45:56.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -861,30 +814,14 @@
         "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 8",
-          "url": "https://connect.bein.com/live/71",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
-        },
-        {
-          "name": "Sport TV 6",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Gvhsn1t1OVmv8iyEvXee5.png"
-        },
-        {
-          "name": "TOD TV",
-          "url": "https://www.tod.tv/ar/sports",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/هولندا-ضد-الإكوادور/xtX48tpavwAm5Ri4Adpyn"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:31:51.000Z",
+      "last_updated_at": "2026-03-31T20:42:06.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -903,24 +840,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pu6tuhoozYwxtb67Mco3D.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports XTRA 2",
-          "url": "https://connect.bein.com/live/104",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/G95-D7Q0IidSVAU-TLFQt.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سلوفاكيا-ضد-رومانيا/yXLD_4-F4pRBeeMDNDcqc"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:28.000Z",
+      "last_updated_at": "2026-03-31T20:33:57.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -939,26 +870,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XPk2OWImaVK69gxVGtxIv.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports XTRA 5",
-          "url": "https://connect.bein.com/live/424",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6lgJPrYAxCeCr2UDXl5n1.png"
-        }
-      ],
-      "venue": {
-        "name": "مجمع أولمبيسكي الوطني الرياضي"
-      },
+      "tv_channels": [],
+      "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/أوكرانيا-ضد-ألبانيا/3eNVuAx7CxkxMoAlU7GQv"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:31:38.000Z",
+      "last_updated_at": "2026-03-31T20:36:24.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -977,26 +900,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDMTDOEdBsBsRfIiT3IL8.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 9",
-          "url": "https://connect.bein.com/live/58",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
-        }
-      ],
-      "venue": {
-        "name": "ملعب كارديف سيتي"
-      },
+      "tv_channels": [],
+      "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ويلز-ضد-إيرلندا-الشمالية/XuDV4KktPKhmYdSCETOsb"
     },
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T19:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:04:13.000Z",
+      "last_updated_at": "2026-03-31T20:22:21.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -1015,20 +930,18 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WHWiaf38mkDPE7j3n2_3p.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
-      "venue": {
-        "name": "Leopold Sedar Senghor"
-      },
+      "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/السنغال-ضد-جامبيا/Bty9UPI4VZDmq0P4bzY5W"
     },
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T19:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:21:01.000Z",
+      "last_updated_at": "2026-03-31T20:07:27.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -1107,7 +1020,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T23:15:00.000Z",
-      "last_updated_at": "2026-03-23T06:13:19.000Z",
+      "last_updated_at": "2026-03-31T18:42:09.000Z",
       "competition": {
         "name": "المباريات الودية",
         "country_or_area": "دولي",
@@ -1137,9 +1050,7 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FaSdUVM61DBwpSGGtV2Dh.png"
         }
       ],
-      "venue": {
-        "name": "El Monumental"
-      },
+      "venue": null,
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/الأرجنتين-ضد-زامبيا/KBseXCrxBaq9Fsocg1Kec"
     },
     {
@@ -1263,7 +1174,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:35:10.000Z",
+      "last_updated_at": "2026-03-31T20:46:25.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس العالم - أوروبا",
         "country_or_area": "دولي",
@@ -1282,7 +1193,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rSy8N8vajDOioG73Mim7B.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "aggregate_score": null,
@@ -1331,7 +1242,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:52.000Z",
+      "last_updated_at": "2026-03-31T20:41:35.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس العالم - أوروبا",
         "country_or_area": "دولي",
@@ -1351,7 +1262,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [
@@ -1387,9 +1298,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/جمهورية-التشيك-ضد-الدنمارك/ti_PqC7vBwpWRdzw7Ej_T"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:34:04.000Z",
+      "last_updated_at": "2026-03-31T20:42:33.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس العالم - أوروبا",
         "country_or_area": "دولي",
@@ -1409,45 +1320,19 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 2",
-          "url": "https://connect.bein.com/live/66",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        },
-        {
-          "name": "beIN Sports Mena 6",
-          "url": "https://connect.bein.com/live/69",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2TJX17Q7L1CmylRf5kSPQ.png"
-        },
-        {
-          "name": "Sport TV 5",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/zmVO-vLbLvT8DyPGz5koJ.png"
-        },
-        {
-          "name": "DAZN 1 Bar Deutsch",
-          "url": "https://www.dazn.com/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/E9NAicu7AuFuRL3j552li.png"
-        },
-        {
-          "name": "  TV8 Turkey",
-          "url": "https://www.tv8.com.tr/canli-yayin",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Cbx343MRX_hCQu8ttQ0Ic.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Fadil Vokrri Stadium"
       },
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/كوسوفو-ضد-تركيا/PsSiTfFHYiPBcMNIAu67F"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:33:59.000Z",
+      "last_updated_at": "2026-03-31T20:38:59.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس العالم - أوروبا",
         "country_or_area": "دولي",
@@ -1466,32 +1351,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GNwQcY9F8w1SkuVV5C55b.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 1
+        "team_a": 3,
+        "team_b": 2
       },
       "aggregate_score": null,
-      "tv_channels": [
-        {
-          "name": "beIN Sports Mena 4",
-          "url": "https://connect.bein.com/live/70",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
-        },
-        {
-          "name": "Sport TV 1",
-          "url": "https://www.sporttv.pt/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Alx-XQfsOCot2Aqic32yt.png"
-        },
-        {
-          "name": "arena sport 2",
-          "url": "https://www.tvarenasport.com/tv-scheme",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YIB7hkPNCtSIaYr3u7Dbl8Trw5eMkQ0G9HWdQEQC.png"
-        },
-        {
-          "name": "Supersport Football",
-          "url": "https://supersport.com/",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/y27LepP0CxKDKWOpLsvPd.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "فريندز أرينا"
       },
@@ -1590,7 +1454,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T21:30:00.000Z",
-      "last_updated_at": "2026-03-26T13:52:04.000Z",
+      "last_updated_at": "2026-03-31T20:43:41.000Z",
       "competition": {
         "name": "الدوري البرازيلي الدرجة الثانية",
         "country_or_area": "البرازيل",
@@ -1648,9 +1512,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/فورتاليزا-ضد-كويابا/caxQCvW53Aj7wuGT1Ky4X"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T20:00:00.000Z",
-      "last_updated_at": "2026-01-23T07:36:30.000Z",
+      "last_updated_at": "2026-03-31T20:48:25.000Z",
       "competition": {
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
@@ -1669,8 +1533,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W6Y6DvzZKFZagtKXKcAno.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1678,9 +1542,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ريال-سانتاندير-ضد-إينفيجادو/9A9snBsBmd7CmXXbmXn8e"
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_utc": "2026-03-31T20:00:00.000Z",
-      "last_updated_at": "2026-01-23T07:36:30.000Z",
+      "last_updated_at": "2026-03-31T20:49:05.000Z",
       "competition": {
         "name": "الدوري الكولومبي الدرجة الثانية",
         "country_or_area": "كولومبيا",
@@ -1699,8 +1563,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BEpQsST2egaFW1knS3qqp.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1768,9 +1632,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ريال-كارتاجينا-ضد-ديبورتيس-كوينديو/LSE1Fso13p5g2g1C4b9Px"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:55.000Z",
+      "last_updated_at": "2026-03-31T20:41:03.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الرابعة",
         "country_or_area": "إنجلترا",
@@ -1789,8 +1653,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IWCb1-3jcb_a5DyDFmZmc.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1800,9 +1664,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ساوثيند-ضد-يوفيل/GePgOlLqSggQG72C2DWtF"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:34:43.000Z",
+      "last_updated_at": "2026-03-31T20:41:48.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الرابعة",
         "country_or_area": "إنجلترا",
@@ -1821,7 +1685,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iTnPF0YXiPxwZMknHJR1R.png"
       },
       "score": {
-        "team_a": 5,
+        "team_a": 7,
         "team_b": 0
       },
       "aggregate_score": null,
@@ -1832,9 +1696,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ويلدستون-ضد-هارتلبول/LqdF0fAX4aS74TSlTjs29"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:33:05.000Z",
+      "last_updated_at": "2026-03-31T20:44:11.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الرابعة",
         "country_or_area": "إنجلترا",
@@ -1853,7 +1717,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/78yqhaZjZfF-l1paa44q5.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "aggregate_score": null,
@@ -1864,9 +1728,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ووكينج-ضد-ألترينشام/Gny40xzGthuJh1wsxs_j4"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:00.000Z",
+      "last_updated_at": "2026-03-31T20:37:29.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -1885,7 +1749,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sHpcz8meJeoEdgg8a7UCL.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "aggregate_score": null,
@@ -1896,9 +1760,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/فلايد-ضد-مارين/0CFq2tFz3SDuWHFKir_fJ"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:32:55.000Z",
+      "last_updated_at": "2026-03-31T20:38:31.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -1928,9 +1792,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ألفريتون-ضد-شورلي/p9T3fNBSizSDyVNFc1qwi"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:34:16.000Z",
+      "last_updated_at": "2026-03-31T20:42:55.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -1950,7 +1814,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -1960,9 +1824,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/هيرفورد-ضد-ماكسفيلد/uR07A2BDi4G8cM7_fHxGP"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:33:24.000Z",
+      "last_updated_at": "2026-03-31T20:42:12.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -1981,7 +1845,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yW-HxWCoJRDZ3kjvW-79_.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 3,
         "team_b": 1
       },
       "aggregate_score": null,
@@ -1992,9 +1856,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سبينيمور-تاون-إف-سي-ضد-كيديرمينستر/vn9uTzUfCHfSSZCo5olIO"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:37:33.000Z",
+      "last_updated_at": "2026-03-31T20:46:40.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -2013,8 +1877,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U206Z29iRQ-to_lfZNfIa.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 1
+        "team_a": 3,
+        "team_b": 4
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -2024,9 +1888,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/انفيلد-تاون-ضد-تشيشام-يونايتد/QtPttHbwGrye7XTRCXYF1"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:36:29.000Z",
+      "last_updated_at": "2026-03-31T20:40:35.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -2045,7 +1909,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YKH6hzMfTbQ8qVIN5k9Dd.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 0
       },
       "aggregate_score": null,
@@ -2056,9 +1920,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/مايدينهيد-يو-ضد-باث-سيتي/wGVhuEBZc9C6X91hSiMrA"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:37:05.000Z",
+      "last_updated_at": "2026-03-31T20:44:11.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة الخامسة",
         "country_or_area": "إنجلترا",
@@ -2088,9 +1952,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ويستون-سوبر-مار-ضد-هاميل-هيمبستيد/6VbXFi-63MxvA85UZANFO"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:36:33.000Z",
+      "last_updated_at": "2026-03-31T20:45:33.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة السادسة",
         "country_or_area": "إنجلترا",
@@ -2120,9 +1984,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/هانويل-تاون-ضد-شولينغ/5xb7k_dhKiZSK26puNKMa"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:45:00.000Z",
-      "last_updated_at": "2026-03-31T19:36:43.000Z",
+      "last_updated_at": "2026-03-31T20:42:13.000Z",
       "competition": {
         "name": "الدوري الإنجليزي الدرجة السادسة",
         "country_or_area": "إنجلترا",
@@ -2142,7 +2006,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 2
       },
       "aggregate_score": null,
       "tv_channels": [],
@@ -3112,9 +2976,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/إسبانيا-تحت-21-ضد-كوسوفو-u21/ZXjwbi2ZPkaXcTSZ93djD"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:24:29.000Z",
+      "last_updated_at": "2026-03-31T19:53:39.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -3142,9 +3006,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/سويسرا-تحت-21-ضد-إستونيا-تحت-21/ie7QScJ3kCyf8S8OrxEVo"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:28:48.000Z",
+      "last_updated_at": "2026-03-31T19:48:42.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -3163,7 +3027,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DLMXVqaZcqLzHbG4PCdos.png"
       },
       "score": {
-        "team_a": 3,
+        "team_a": 4,
         "team_b": 1
       },
       "aggregate_score": null,
@@ -3172,9 +3036,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/إنجلترا-تحت-21-ضد-مولدوفا-تحت-21/Xqk5OuXqqRS3qCV7hfMir"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:30:00.000Z",
-      "last_updated_at": "2026-03-31T19:35:07.000Z",
+      "last_updated_at": "2026-03-31T20:23:05.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لأمم أوروبا للشباب",
         "country_or_area": "دولي",
@@ -3193,7 +3057,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pq_ySzmMTpWEj1bv9n2Jy.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 0
       },
       "aggregate_score": null,
@@ -3272,7 +3136,7 @@
     {
       "status": "FIXTURE",
       "start_date_utc": "2026-03-31T21:00:00.000Z",
-      "last_updated_at": "2026-03-27T06:09:40.000Z",
+      "last_updated_at": "2026-03-31T20:24:22.000Z",
       "competition": {
         "name": "التصفيات المؤهلة لكأس العالم - المباريات الفاصلة بين الاتحادات القارية",
         "country_or_area": "دولي",
@@ -3674,9 +3538,9 @@
       "match_url": "https://www.kooora.com/كرة-القدم/مباراة/ميرانديس-ضد-ألباسيتي/zzHvyj_xhKbAoeT92u6Ao"
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_utc": "2026-03-31T18:00:00.000Z",
-      "last_updated_at": "2026-03-31T19:06:14.000Z",
+      "last_updated_at": "2026-03-31T19:54:22.000Z",
       "competition": {
         "name": "الدوري الإسباني الدرجة الثانية",
         "country_or_area": "إسبانيا",
@@ -3708,7 +3572,7 @@
     {
       "status": "LIVE",
       "start_date_utc": "2026-03-31T19:30:00.000Z",
-      "last_updated_at": "2026-03-31T19:31:37.000Z",
+      "last_updated_at": "2026-03-31T20:37:06.000Z",
       "competition": {
         "name": "الدوري الإسباني الدرجة الثانية",
         "country_or_area": "إسبانيا",
@@ -3727,7 +3591,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s-jKrAYj7RdyeR7pXy8DA.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 2,
         "team_b": 0
       },
       "aggregate_score": null,
