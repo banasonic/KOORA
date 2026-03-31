@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-03-31 23:46:23",
+  "fetched_at_egypt": "2026-04-01 00:40:26",
   "matches_count": 115,
   "matches": [
     {
@@ -748,7 +748,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-01 01:00:00",
-      "last_updated_at": "2026-01-09 09:31:21",
+      "last_updated_at": "2026-04-01 00:31:38",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -775,8 +775,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-04-01 01:15:00",
-      "last_updated_at": "2026-03-31 20:42:09",
+      "start_date_egypt": "2026-04-01 01:30:00",
+      "last_updated_at": "2026-04-01 00:18:53",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -1065,7 +1065,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-03-31 23:30:00",
-      "last_updated_at": "2026-03-31 23:30:46",
+      "last_updated_at": "2026-04-01 00:31:55",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1086,9 +1086,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-01 00:00:00",
-      "last_updated_at": "2026-03-31 23:30:25",
+      "last_updated_at": "2026-04-01 00:13:47",
       "competition": "الدوري البرازيلي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1102,16 +1102,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iM1YeDp3Y-GyuR28ePvzB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-03-31 22:00:00",
-      "last_updated_at": "2026-03-31 23:40:23",
+      "last_updated_at": "2026-03-31 23:54:43",
       "competition": "الدوري الكولومبي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1125,16 +1125,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W6Y6DvzZKFZagtKXKcAno.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 2
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-03-31 22:00:00",
-      "last_updated_at": "2026-03-31 23:18:35",
+      "last_updated_at": "2026-03-31 23:53:35",
       "competition": "الدوري الكولومبي الدرجة الثانية",
       "round": null,
       "team_a": {
@@ -1148,7 +1148,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BEpQsST2egaFW1knS3qqp.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 1
       },
       "tv_channels": [],
@@ -2356,7 +2356,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-03-31 23:00:00",
-      "last_updated_at": "2026-03-31 23:22:27",
+      "last_updated_at": "2026-04-01 00:04:19",
       "competition": "التصفيات المؤهلة لكأس العالم - المباريات الفاصلة بين الاتحادات القارية",
       "round": null,
       "team_a": {
@@ -2574,7 +2574,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-03-31 23:30:00",
-      "last_updated_at": "2026-03-31 23:31:37",
+      "last_updated_at": "2026-04-01 00:35:58",
       "competition": "دوري باراجواي",
       "round": null,
       "team_a": {
@@ -2588,7 +2588,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sBRzmqXnONMphYzdpdopL.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_channels": [],
@@ -2739,9 +2739,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-01 00:00:00",
-      "last_updated_at": "2026-03-31 23:42:00",
+      "last_updated_at": "2026-04-01 00:27:06",
       "competition": "دوري أوروجواي الممتاز",
       "round": null,
       "team_a": {
@@ -2755,8 +2755,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55gk3y9pyjnpck475gqm285bk.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
