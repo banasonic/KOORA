@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-01 17:12:59",
+  "fetched_at_egypt": "2026-04-01 18:33:38",
   "matches_count": 92,
   "matches": [
     {
@@ -560,9 +560,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:08:57",
+      "last_updated_at": "2026-04-01 17:56:44",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -577,7 +577,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": null
@@ -585,7 +585,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-04-01 17:00:00",
-      "last_updated_at": "2026-04-01 17:03:23",
+      "last_updated_at": "2026-04-01 18:08:45",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -599,8 +599,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/01fi2CVXuLA9_By2xUnu2.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -608,7 +608,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-04-01 17:00:00",
-      "last_updated_at": "2026-04-01 17:02:17",
+      "last_updated_at": "2026-04-01 18:08:45",
       "competition": "الرابطة الجزائرية المحترفة الأولى",
       "round": null,
       "team_a": {
@@ -622,7 +622,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmacYj1xKowH8vbo46Zxf.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_channels": [],
@@ -1505,7 +1505,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-01 18:45:00",
-      "last_updated_at": "2026-02-20 11:26:09",
+      "last_updated_at": "2026-04-01 17:41:04",
       "competition": "دوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -1746,9 +1746,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:11:40",
+      "last_updated_at": "2026-04-01 17:52:48",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1763,7 +1763,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 2
+        "team_b": 4
       },
       "tv_channels": [],
       "venue": {
@@ -1771,9 +1771,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:07:25",
+      "last_updated_at": "2026-04-01 18:00:49",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1787,8 +1787,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": {
@@ -1796,9 +1796,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:01:23",
+      "last_updated_at": "2026-04-01 17:52:50",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1813,7 +1813,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_channels": [],
       "venue": {
@@ -1821,9 +1821,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:00:41",
+      "last_updated_at": "2026-04-01 17:52:51",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1837,7 +1837,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4EKRy442SQdAQGYsw_jOo.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_channels": [],
@@ -1846,9 +1846,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 16:00:00",
-      "last_updated_at": "2026-04-01 17:03:24",
+      "last_updated_at": "2026-04-01 17:54:33",
       "competition": "الدوري النرويجي للسيدات",
       "round": null,
       "team_a": {
@@ -1862,7 +1862,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ezd05ONqFz4gAMrBzWUZk.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 4,
         "team_b": 0
       },
       "tv_channels": [],
@@ -1940,9 +1940,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-01 14:00:00",
-      "last_updated_at": "2026-03-28 11:48:29",
+      "last_updated_at": "2026-04-01 19:18:09",
       "competition": "دوري جوّي للنخبة تحت 21",
       "round": null,
       "team_a": {
@@ -1956,8 +1956,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RKnW7gs2iBzUpRkwXCxW1.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": null
@@ -2021,7 +2021,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-01 19:00:00",
-      "last_updated_at": "2025-08-19 08:05:02",
+      "last_updated_at": "2026-04-01 18:12:27",
       "competition": "الدوري الإسباني الدرجة الثانية",
       "round": null,
       "team_a": {
