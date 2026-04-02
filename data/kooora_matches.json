@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-02 10:10:31",
+  "fetched_at_egypt": "2026-04-02 11:38:55",
   "matches_count": 73,
   "matches": [
     {
@@ -211,9 +211,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-02 10:35:00",
-      "last_updated_at": "2026-04-02 09:43:26",
+      "last_updated_at": "2026-04-02 11:29:31",
       "competition": "الدوري الأسترالي",
       "round": null,
       "team_a": {
@@ -227,8 +227,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sNhjwNfG8L5dVTq2mWROg.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 2
       },
       "tv_channels": [],
       "venue": {
@@ -238,7 +238,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-02 12:00:00",
-      "last_updated_at": "2025-10-22 15:32:51",
+      "last_updated_at": "2026-04-02 11:11:24",
       "competition": "الدوري الأسترالي",
       "round": null,
       "team_a": {
