@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-03 11:33:35",
+  "fetched_at_egypt": "2026-04-03 12:25:21",
   "matches_count": 296,
   "matches": [
     {
@@ -336,7 +336,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-03 13:30:00",
-      "last_updated_at": "2026-03-11 10:57:03",
+      "last_updated_at": "2026-04-03 12:18:01",
       "competition": "الدوري الإنجليزي الدرجة الأولى",
       "round": null,
       "team_a": {
@@ -703,7 +703,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-04-03 10:35:00",
-      "last_updated_at": "2026-04-03 11:23:15",
+      "last_updated_at": "2026-04-03 11:41:33",
       "competition": "الدوري الأسترالي",
       "round": null,
       "team_a": {
@@ -718,7 +718,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": {
@@ -1119,9 +1119,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-03 10:00:00",
-      "last_updated_at": "2026-04-03 11:05:25",
+      "last_updated_at": "2026-04-03 11:56:06",
       "competition": "الدوري الأسترالي للسيدات",
       "round": null,
       "team_a": {
@@ -1768,7 +1768,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-03 13:00:00",
-      "last_updated_at": "2026-03-25 13:31:12",
+      "last_updated_at": "2026-04-03 11:54:03",
       "competition": "دوري الدرجة الأولى الدنماركي",
       "round": null,
       "team_a": {
@@ -4779,7 +4779,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-04-03 10:30:00",
-      "last_updated_at": "2026-04-03 11:23:56",
+      "last_updated_at": "2026-04-03 11:39:16",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
@@ -5780,9 +5780,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-03 12:00:00",
-      "last_updated_at": "2026-04-02 18:42:44",
+      "last_updated_at": "2026-04-03 12:02:18",
       "competition": "الدوري البرتغالي الدرجة الثالثة",
       "round": null,
       "team_a": {
@@ -5796,8 +5796,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wc6wvGICQzn25xUaxz3vj.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -6198,9 +6198,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-03 12:00:00",
-      "last_updated_at": "2026-04-03 11:16:16",
+      "last_updated_at": "2026-04-03 12:00:14",
       "competition": "الدوري الإسباني للسيدات",
       "round": null,
       "team_a": {
@@ -6214,8 +6214,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bBcTKBG2M2UrSa-LMROFw.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -6290,9 +6290,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-03 12:00:00",
-      "last_updated_at": "2026-03-20 11:16:19",
+      "last_updated_at": "2026-04-03 12:03:35",
       "competition": "الدوري الإسباني الدرجة الرابعة",
       "round": null,
       "team_a": {
@@ -6306,8 +6306,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_channels": [],
       "venue": null
@@ -6476,7 +6476,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-03 13:00:00",
-      "last_updated_at": "2026-01-22 16:15:41",
+      "last_updated_at": "2026-04-03 12:05:09",
       "competition": "الدوري السويدي للسيدات",
       "round": null,
       "team_a": {
