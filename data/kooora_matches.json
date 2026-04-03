@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-04-03 09:19:13",
+  "fetched_at_egypt": "2026-04-03 10:29:02",
   "matches_count": 296,
   "matches": [
     {
@@ -703,7 +703,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-03 10:35:00",
-      "last_updated_at": "2025-09-12 11:37:44",
+      "last_updated_at": "2026-04-03 09:29:10",
       "competition": "الدوري الأسترالي",
       "round": null,
       "team_a": {
@@ -1096,9 +1096,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-04-03 07:50:00",
-      "last_updated_at": "2026-04-03 08:56:29",
+      "last_updated_at": "2026-04-03 09:45:33",
       "competition": "الدوري الأسترالي للسيدات",
       "round": null,
       "team_a": {
@@ -1119,9 +1119,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-04-03 10:00:00",
-      "last_updated_at": "2025-09-12 11:39:35",
+      "last_updated_at": "2026-04-03 10:22:01",
       "competition": "الدوري الأسترالي للسيدات",
       "round": null,
       "team_a": {
@@ -1135,8 +1135,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nSQ0y0hpLCnnmlULNg5bq.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_channels": [],
       "venue": null
@@ -4779,7 +4779,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-04-03 10:30:00",
-      "last_updated_at": "2025-07-18 10:55:52",
+      "last_updated_at": "2026-04-03 09:44:05",
       "competition": "الدوري الأندونيسي",
       "round": null,
       "team_a": {
